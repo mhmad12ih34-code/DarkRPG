@@ -1,17 +1,36 @@
-[17:09:11] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.18.6
-[17:09:12] [ForkJoinPool-1-worker-1/WARN]: Mod bonfires uses the version 1.2.20c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '20c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[17:09:12] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[17:33:21] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.19.2
+[17:33:21] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[17:33:22] [ForkJoinPool-1-worker-1/WARN]: Mod bonfires uses the version 1.2.20c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '20c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:33:22] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 12
-[17:09:13] [ForkJoinPool-1-worker-1/WARN]: Mod libreexpfix uses the version 0.2.7b14-BETA which isn't compatible with Loader's extended semantic version format (Could not parse version number component '7b14'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[17:09:13] [ForkJoinPool-1-worker-1/WARN]: Mod triqueapi uses the version mc1.20.1-1.1.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'mc1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[17:09:13] [ForkJoinPool-1-worker-1/WARN]: Mod oceansdelight uses the version fdrf-fabric-1.0.2-1.20 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fdrf'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[17:09:13] [ForkJoinPool-1-worker-1/WARN]: Mod backported_wolves uses the version 1.20.x+2.0.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'x'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[17:09:13] [ForkJoinPool-1-worker-2/WARN]: The mod "terrariaorigins" contains invalid entries in its mod json:
+[17:33:22] [ForkJoinPool-1-worker-2/WARN]: Mod libreexpfix uses the version 0.2.7b14-BETA which isn't compatible with Loader's extended semantic version format (Could not parse version number component '7b14'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:33:22] [ForkJoinPool-1-worker-2/WARN]: Mod triqueapi uses the version mc1.20.1-1.1.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'mc1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:33:23] [ForkJoinPool-1-worker-1/WARN]: Mod oceansdelight uses the version fdrf-fabric-1.0.2-1.20 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fdrf'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:33:23] [ForkJoinPool-1-worker-1/WARN]: Mod backported_wolves uses the version 1.20.x+2.0.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'x'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:33:23] [ForkJoinPool-1-worker-1/WARN]: The mod "terrariaorigins" contains invalid entries in its mod json:
 - Unsupported root entry "pack_format" at line 15 column 18
-[17:09:13] [ForkJoinPool-1-worker-1/WARN]: Mod beeorigin uses the version :D which isn't compatible with Loader's extended semantic version format (Could not parse version number component ':D'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[17:09:14] [ForkJoinPool-1-worker-1/WARN]: Mod structurecredits uses the version LASTVERSION which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'LASTVERSION'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[17:09:14] [ForkJoinPool-1-worker-1/WARN]: Mod longnbtkiller uses the version Fabric-1.20.1-1.0.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'Fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[17:09:14] [ForkJoinPool-1-worker-1/WARN]: Mod getittogetherdrops uses the version fabric-1.20-1.3.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[17:09:14] [ForkJoinPool-1-worker-2/WARN]: The mod "openblocks" contains invalid entries in its mod json:
+[17:33:23] [ForkJoinPool-1-worker-1/WARN]: Mod beeorigin uses the version :D which isn't compatible with Loader's extended semantic version format (Could not parse version number component ':D'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:33:23] [ForkJoinPool-1-worker-2/WARN]: Mod structurecredits uses the version LASTVERSION which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'LASTVERSION'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:33:23] [ForkJoinPool-1-worker-2/WARN]: Mod longnbtkiller uses the version Fabric-1.20.1-1.0.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'Fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:33:23] [ForkJoinPool-1-worker-2/WARN]: Mod getittogetherdrops uses the version fabric-1.20-1.3.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:33:24] [ForkJoinPool-1-worker-1/WARN]: The mod "openblocks" contains invalid entries in its mod json:
 - Unsupported root entry "client" at line 24 column 11
-[17:09:14] [ForkJoinPool-1-worker-2/WARN]: Mod nochatrestrictions uses the version Fabric-MC1.20.1-v1.0.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'Fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:33:24] [ForkJoinPool-1-worker-1/WARN]: Mod nochatrestrictions uses the version Fabric-MC1.20.1-v1.0.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'Fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:33:24] [ForkJoinPool-1-worker-1/WARN]: Mod catburger uses the version 1.0.3_fix2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '3_fix2'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:33:25] [main/WARN]: Mod resolution failed
+[17:33:25] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE aspects 1.0.9-1.20.x {depends extrakeybinds @ [*]}, ROOT_FORCELOAD_SINGLE aspects 1.0.9-1.20.x]
+[17:33:25] [main/INFO]: Reason: [HARD_DEP aspects 1.0.9-1.20.x {depends extrakeybinds @ [*]}]
+[17:33:25] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, fabric-keybindings-v0, bhmenu, stylisheffects, held-item-info, wi_zoom, accurateblockplacement, hatlist, fabric-sound-api-v1, controlling, fabric-model-loading-api-v1, lambdynlights, emitrades, chesttracker, fabric-blockrenderlayer-v1, fabric-renderer-registries-v1, minihud, travelerstitles, cosmetica, weatherrefind, bendy-lib, ambientsounds, modmenu, mousetweaks, fabric-screen-api-v1, fabric-renderer-indigo, reeses-sodium-options, slotcycler, bobby, memoryusagetitle, flywheel, bestpick, servercountryflags, fabric-rendering-v0, fabric-rendering-v1, fabric-key-binding-api-v1, spruceui, searchables, lighty, betterthirdperson, malilib, indium, fabric-client-tags-api-v1, enhancedblockentities, enchantedtooltips, particle_core, fabric-models-v0, overflowingbars, presencefootsteps, completionistsindex]
+[17:33:25] [main/INFO]: Fix: add [add:extrakeybinds 1 ([(-∞,∞)])], remove [], replace []
+[17:33:25] [main/ERROR]: Incompatible mods found!
+net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
+A potential solution has been determined, this may resolve your problem:
+	 - Install extrakeybinds, any version.
+More details:
+	 - Mod 'Aspects' (aspects) 1.0.9-1.20.x requires any version of extrakeybinds, which is missing!
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:202) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:142) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:66) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.19.2.jar:?]
