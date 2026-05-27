@@ -13386,6 +13386,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2026-05-27 17:04:12 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_gravel": {
     "criteria": {
       "has_item": "2026-05-27 16:59:47 +0000"
