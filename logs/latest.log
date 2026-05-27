@@ -6315,3 +6315,5 @@ java.lang.NullPointerException: uuid
 [16:36:24] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1641MB, After: 1009MB
 [16:45:57] [Server thread/INFO]: King_GamesYT was slain by Zombie
 [16:45:57] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_27.05.2026-16.45.57.dat
+[16:51:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[16:51:24] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1575MB, After: 1075MB
