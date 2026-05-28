@@ -2178,6 +2178,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2026-05-28 23:09:08 +0000",
       "cooked_mutton": "2026-05-27 21:59:49 +0000",
       "cooked_beef": "2026-05-26 22:49:41 +0000",
       "baked_potato": "2026-05-27 00:20:13 +0000",
@@ -13230,6 +13231,36 @@
   "clutter:recipes/decorations/birch_window_sill": {
     "criteria": {
       "has_flower_pot": "2026-05-28 09:04:12 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/sausage": {
+    "criteria": {
+      "has_cooked_porkchop": "2026-05-28 23:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-05-28 23:13:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2026-05-28 23:08:38 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/breeding_bone": {
+    "criteria": {
+      "has_cooked_porkchop": "2026-05-28 23:08:38 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_cooked_porkchop": {
+    "criteria": {
+      "has_item": "2026-05-28 23:08:38 +0000"
     },
     "done": true
   },
