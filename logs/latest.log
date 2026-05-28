@@ -6270,3 +6270,7 @@ java.lang.NullPointerException: uuid
 [23:30:21] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_28.05.2026-23.30.21.dat
 [23:30:48] [Server thread/INFO]: King_GamesYT was slain by dcx501
 [23:30:48] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_28.05.2026-23.30.48.dat
+[23:34:55] [Server thread/WARN]: dcx501 moved wrongly!
+[23:39:41] [Server thread/WARN]: dcx501 moved wrongly!
+[23:41:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1371MB, After: 1383MB
+[23:41:12] [Server thread/INFO]: King_GamesYT has made the advancement [Expand functionality]
