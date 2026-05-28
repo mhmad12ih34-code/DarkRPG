@@ -14145,6 +14145,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2026-05-28 23:47:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2026-05-28 23:47:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2026-05-28 23:44:53 +0000"
@@ -14157,9 +14169,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2026-05-28 23:47:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/chain_from_zinc": {
     "criteria": {
       "has_item": "2026-05-28 23:44:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2026-05-28 23:47:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2026-05-28 23:47:11 +0000"
+    },
+    "done": true
+  },
+  "variantbarrels:recipes/decorations/ru_maple_barrel": {
+    "criteria": {
+      "has_planks": "2026-05-28 23:47:11 +0000"
     },
     "done": true
   },
@@ -14169,9 +14205,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2026-05-28 23:47:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/package_filter": {
     "criteria": {
       "has_item": "2026-05-28 23:44:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2026-05-28 23:47:11 +0000"
     },
     "done": true
   },
@@ -14190,6 +14238,24 @@
   "travelersbackpack:functionality_upgrade": {
     "criteria": {
       "functionality_upgrade": "2026-05-28 23:41:12 +0000"
+    },
+    "done": true
+  },
+  "snowyspirit:recipes/decorations/regions_unexplored/sled_maple": {
+    "criteria": {
+      "has_item": "2026-05-28 23:47:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2026-05-28 23:47:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2026-05-28 23:47:11 +0000"
     },
     "done": true
   },
