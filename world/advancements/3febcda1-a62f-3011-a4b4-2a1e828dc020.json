@@ -6205,7 +6205,8 @@
   },
   "amethyst_imbuement:progression/base_components": {
     "criteria": {
-      "advancements": "2026-05-27 00:50:54 +0000"
+      "advancements": "2026-05-27 00:50:54 +0000",
+      "got_stuff": "2026-05-29 04:14:31 +0000"
     },
     "done": false
   },
@@ -14355,11 +14356,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-29 04:10:46 +0000"
+    },
+    "done": true
+  },
   "darkrpg:obsidian2": {
     "criteria": {
       "darkrpg_obsidian": "2026-05-29 01:46:47 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-05-29 04:10:43 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
@@ -14395,6 +14408,12 @@
   "soulsweapons:recipes/combat/mehrunes_razor": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 04:10:45 +0000"
     },
     "done": true
   },
@@ -14500,6 +14519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-29 04:10:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:mycologist": {
     "criteria": {
       "yellow_bioshroom": "2026-05-29 04:01:46 +0000"
@@ -14512,6 +14537,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-29 04:10:46 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_reaper": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
@@ -14521,6 +14552,12 @@
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2026-05-29 02:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 04:10:45 +0000"
     },
     "done": true
   },
@@ -14578,9 +14615,21 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/misc/shaped_crated_red_mushroom": {
+    "criteria": {
+      "has_item": "2026-05-29 04:10:46 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/opulent_armor_helmet": {
     "criteria": {
       "has_emerald_gear_helmet": "2026-05-29 01:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 04:10:45 +0000"
     },
     "done": true
   },
@@ -14590,9 +14639,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-29 04:10:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2026-05-29 02:16:02 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:compression/crate": {
+    "criteria": {
+      "get_crate": "2026-05-29 04:07:35 +0000"
     },
     "done": true
   },
@@ -14656,6 +14717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 04:10:45 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:lord_soul": {
     "criteria": {
       "condition_0": "2026-05-29 03:03:05 +0000"
@@ -14710,9 +14777,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 04:10:45 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/frostmourne": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 04:10:45 +0000"
     },
     "done": true
   },
@@ -14776,6 +14855,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/misc/shapeless_crated_rotten_flesh": {
+    "criteria": {
+      "has_item": "2026-05-29 04:07:35 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_charcoal": {
     "criteria": {
       "has_item": "2026-05-29 03:42:26 +0000"
@@ -14833,6 +14918,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/sculk_mushroom_from_sculk_vein_and_red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-29 04:10:46 +0000"
     },
     "done": true
   },
@@ -14914,6 +15005,18 @@
       "yellow_bioshroom_stem": "2026-05-29 03:08:40 +0000"
     },
     "done": false
+  },
+  "compressedblocks:recipes/misc/shaped_double_crated_rotten_flesh": {
+    "criteria": {
+      "has_item": "2026-05-29 04:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 04:10:45 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/find_bastion": {
     "criteria": {

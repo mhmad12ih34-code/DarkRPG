@@ -993,3 +993,9 @@ java.lang.NullPointerException: uuid
 [04:06:11] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-04.06.11.dat
 [04:07:35] [Server thread/INFO]: King_GamesYT has made the advancement [Crates everywhere!]
 [04:08:34] [Server thread/INFO]: ok_98 has made the advancement [Stay dead]
+[04:09:32] [Server thread/INFO]: ok_98 has made the advancement [Source of Evil]
+[04:10:38] [Server thread/INFO]: King_GamesYT was blown up by Creeper
+[04:10:39] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-04.10.38.dat
+[04:10:43] [Server thread/INFO]: [King_GamesYT: Teleported King_GamesYT to dcx501]
+[04:11:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 3196MB, After: 3233MB
+[04:14:31] [Server thread/INFO]: Villager class_1646['Cartographer'/78833, l='ServerLevel[world]', x=572.54, y=32.88, z=600.50] died, message: 'Cartographer was slain by King_GamesYT'

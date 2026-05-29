@@ -2522,6 +2522,7 @@
       "poppy_fields": "2026-05-27 00:23:14 +0000",
       "rocky_meadow": "2026-05-27 22:12:31 +0000",
       "mycotoxic_undergrowth": "2026-05-29 02:40:31 +0000",
+      "flower_fields": "2026-05-29 04:10:25 +0000",
       "highland_fields": "2026-05-27 23:12:45 +0000",
       "maple_forest": "2026-05-27 00:23:34 +0000",
       "magnolia_highlands": "2026-05-27 00:26:40 +0000",
@@ -2546,6 +2547,7 @@
       "willow_forest": "2026-05-27 08:41:41 +0000",
       "poppy_fields": "2026-05-27 00:23:14 +0000",
       "rocky_meadow": "2026-05-27 22:12:31 +0000",
+      "flower_fields": "2026-05-29 04:10:25 +0000",
       "highland_fields": "2026-05-27 23:12:45 +0000",
       "maple_forest": "2026-05-27 00:23:34 +0000",
       "magnolia_highlands": "2026-05-27 00:26:40 +0000",
@@ -10438,6 +10440,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2026-05-29 04:08:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2026-05-29 03:41:14 +0000"
@@ -10453,6 +10461,12 @@
   "variantshields:recipes/combat/spruce_wood_shield": {
     "criteria": {
       "has_plank": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2026-05-29 04:09:32 +0000"
     },
     "done": true
   },

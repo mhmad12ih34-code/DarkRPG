@@ -12844,7 +12844,8 @@
   },
   "amethyst_imbuement:progression/base_components": {
     "criteria": {
-      "advancements": "2026-05-28 08:42:10 +0000"
+      "advancements": "2026-05-28 08:42:10 +0000",
+      "got_stuff": "2026-05-29 04:14:46 +0000"
     },
     "done": false
   },
@@ -14619,6 +14620,18 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/translucent_glaive": {
+    "criteria": {
+      "has_item": "2026-05-29 04:13:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/translucent_double_greatsword": {
+    "criteria": {
+      "has_item": "2026-05-29 04:13:37 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_lantern": {
     "criteria": {
       "has_item": "2026-05-29 03:16:05 +0000"
@@ -14637,6 +14650,18 @@
     },
     "done": false
   },
+  "soulsweapons:recipes/combat/translucent_sword": {
+    "criteria": {
+      "has_item": "2026-05-29 04:13:37 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_soul_sand": {
+    "criteria": {
+      "has_item": "2026-05-29 04:11:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/palettes/scorchia": {
     "criteria": {
       "has_item": "2026-05-29 03:19:57 +0000"
@@ -14652,6 +14677,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/silver_bullet": {
+    "criteria": {
+      "has_lost_soul": "2026-05-29 04:11:47 +0000"
     },
     "done": true
   },
@@ -14691,6 +14722,18 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_robes_leggings": {
+    "criteria": {
+      "has_item": "2026-05-29 04:13:37 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2026-05-29 04:11:22 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_red_nether_bricks": {
     "criteria": {
       "has_item": "2026-05-29 03:16:07 +0000"
@@ -14706,6 +14749,12 @@
   "darkbosses:decaying_king_boss": {
     "criteria": {
       "decaying_king_boss": "2026-05-29 03:03:04 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2026-05-29 04:11:22 +0000"
     },
     "done": true
   },
@@ -14730,6 +14779,12 @@
   "darkrpg:glowstone": {
     "criteria": {
       "darkrpg_glowstone": "2026-05-29 03:41:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2026-05-29 04:11:22 +0000"
     },
     "done": true
   },
@@ -14769,6 +14824,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_sand": "2026-05-29 04:11:22 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/building_blocks/polished_black_onyx_stairs": {
     "criteria": {
       "has_sulphur": "2026-05-29 03:34:53 +0000"
@@ -14781,6 +14842,18 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/hunter_pistol": {
+    "criteria": {
+      "has_lost_soul": "2026-05-29 04:11:47 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_chestplate": {
+    "criteria": {
+      "has_item": "2026-05-29 04:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2026-05-29 03:07:22 +0000"
@@ -14790,6 +14863,12 @@
   "mythicmetals:palladium": {
     "criteria": {
       "feel_the_heat": "2026-05-29 02:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-05-29 04:11:22 +0000"
     },
     "done": true
   },
@@ -14847,6 +14926,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2026-05-29 04:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
@@ -14895,9 +14980,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2026-05-29 04:11:22 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/building_blocks/black_onyx_stairs": {
     "criteria": {
       "has_sulphur": "2026-05-29 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/iron_skull": {
+    "criteria": {
+      "has_item": "2026-05-29 04:11:47 +0000"
     },
     "done": true
   },
@@ -14910,6 +15007,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_chestplate": {
+    "criteria": {
+      "has_item": "2026-05-29 04:13:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2026-05-29 04:11:22 +0000"
     },
     "done": true
   },
@@ -14937,9 +15046,21 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2026-05-29 04:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2026-05-29 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_helmet": {
+    "criteria": {
+      "has_item": "2026-05-29 04:13:37 +0000"
     },
     "done": true
   },
@@ -14991,6 +15112,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/infused_blackstone": {
+    "criteria": {
+      "has_item": "2026-05-29 04:11:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2026-05-29 03:16:07 +0000"
@@ -15024,6 +15151,12 @@
   "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_boots": {
+    "criteria": {
+      "has_item": "2026-05-29 04:13:37 +0000"
     },
     "done": true
   },
@@ -15063,9 +15196,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/soulfire_stain": {
+    "criteria": {
+      "has_item": "2026-05-29 04:11:47 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_shroomlight": {
     "criteria": {
       "has_item": "2026-05-29 03:41:40 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/blunderbuss": {
+    "criteria": {
+      "has_lost_soul": "2026-05-29 04:11:47 +0000"
     },
     "done": true
   },
@@ -15099,9 +15244,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-05-29 04:11:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lamp": {
+    "criteria": {
+      "has_item": "2026-05-29 04:11:47 +0000"
     },
     "done": true
   },
@@ -15177,9 +15334,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_robes_helmet": {
+    "criteria": {
+      "has_item": "2026-05-29 04:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2026-05-29 03:38:01 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2026-05-29 04:11:22 +0000"
     },
     "done": true
   },
@@ -15192,6 +15361,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_robes_boots": {
+    "criteria": {
+      "has_item": "2026-05-29 04:13:37 +0000"
     },
     "done": true
   },
@@ -15225,6 +15400,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/soul_ingot_leggings": {
+    "criteria": {
+      "has_item": "2026-05-29 04:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/medium_ingot_from_smelting_raw_medium": {
     "criteria": {
       "has_raw_medium": "2026-05-29 02:44:21 +0000"
@@ -15234,6 +15415,12 @@
   "dramaticdoors:recipes/redstone/short_iron_door": {
     "criteria": {
       "has_items": "2026-05-29 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
+    "criteria": {
+      "has_item": "2026-05-29 04:11:47 +0000"
     },
     "done": true
   },
@@ -15248,6 +15435,12 @@
       "darkrpg_even_more_magma_cube": "2026-05-29 03:34:07 +0000"
     },
     "done": false
+  },
+  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
+    "criteria": {
+      "has_lost_soul": "2026-05-29 04:11:47 +0000"
+    },
+    "done": true
   },
   "soulsweapons:all_weapons": {
     "criteria": {
@@ -15270,6 +15463,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:recipes/chipped_anvil_combine": {
+    "criteria": {
+      "has_items": "2026-05-29 04:11:18 +0000"
     },
     "done": true
   },
@@ -15309,6 +15508,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/soul_ingot": {
+    "criteria": {
+      "has_item": "2026-05-29 04:11:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2026-05-29 03:16:07 +0000"
@@ -15324,6 +15529,18 @@
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
+    "criteria": {
+      "has_item": "2026-05-29 04:11:47 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/hunter_cannon": {
+    "criteria": {
+      "has_lost_soul": "2026-05-29 04:11:47 +0000"
     },
     "done": true
   },
@@ -15348,6 +15565,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2026-05-29 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/gatling_gun": {
+    "criteria": {
+      "has_lost_soul": "2026-05-29 04:11:47 +0000"
     },
     "done": true
   },
