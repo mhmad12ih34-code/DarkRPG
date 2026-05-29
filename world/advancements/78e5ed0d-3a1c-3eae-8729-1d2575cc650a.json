@@ -4363,6 +4363,7 @@
       "minecraft:spider": "2026-05-27 08:21:50 +0000",
       "minecraft:evoker": "2026-05-27 08:24:33 +0000",
       "minecraft:wither_skeleton": "2026-05-27 22:25:17 +0000",
+      "minecraft:husk": "2026-05-29 07:37:13 +0000",
       "minecraft:vex": "2026-05-27 08:26:01 +0000",
       "minecraft:zombie": "2026-05-27 07:43:35 +0000",
       "minecraft:drowned": "2026-05-27 08:16:12 +0000"
@@ -10708,6 +10709,102 @@
   "mcdw:recipes/daggers/dagger_backstabber": {
     "criteria": {
       "has_gold_nugget": "2026-05-29 04:22:33 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:silver_sword": {
+    "criteria": {
+      "items": "2026-05-29 07:36:40 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_red_nether_bricks": {
+    "criteria": {
+      "has_item": "2026-05-29 07:35:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2026-05-29 07:33:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2026-05-29 07:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2026-05-29 07:23:41 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_polished_diorite": {
+    "criteria": {
+      "has_item": "2026-05-29 07:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 07:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 07:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2026-05-29 07:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 07:35:50 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_gray_carpet": {
+    "criteria": {
+      "has_item": "2026-05-29 07:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 07:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2026-05-29 07:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 07:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2026-05-29 07:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 07:35:50 +0000"
     },
     "done": true
   },

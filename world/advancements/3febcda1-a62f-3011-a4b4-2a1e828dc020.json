@@ -10,6 +10,7 @@
       "minecraft:snowy_slopes": "2026-05-26 22:47:54 +0000",
       "minecraft:taiga": "2026-05-27 03:32:28 +0000",
       "minecraft:sunflower_plains": "2026-05-26 23:20:28 +0000",
+      "minecraft:beach": "2026-05-29 07:34:05 +0000",
       "minecraft:river": "2026-05-27 03:32:43 +0000",
       "minecraft:stony_shore": "2026-05-27 00:02:58 +0000",
       "minecraft:jagged_peaks": "2026-05-26 22:51:41 +0000",
@@ -14855,6 +14856,12 @@
     },
     "done": true
   },
+  "exposure:recipes/misc/black_and_white_film_developing": {
+    "criteria": {
+      "has_black_and_white_film": "2026-05-29 07:32:53 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shapeless_c0_netherrack": {
     "criteria": {
       "has_item": "2026-05-29 06:41:52 +0000"
@@ -15026,6 +15033,12 @@
   "compressedblocks:recipes/misc/shaped_crated_charcoal": {
     "criteria": {
       "has_item": "2026-05-29 03:42:26 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_fire_charge": {
+    "criteria": {
+      "has_item": "2026-05-29 07:34:32 +0000"
     },
     "done": true
   },
