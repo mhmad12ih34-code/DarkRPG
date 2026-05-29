@@ -1264,3 +1264,10 @@ java.lang.NullPointerException: uuid
 [07:46:31] [Server thread/INFO]: ok_98 lost connection: Disconnected
 [07:46:31] [Server thread/INFO]: ok_98 left the game
 [07:46:31] [Server thread/INFO]: Updating all forceload tickets for 78e5ed0d-3a1c-3eae-8729-1d2575cc650a
+[07:48:09] [Server thread/INFO]: [King_GamesYT: Set own game mode to Creative Mode]
+[07:48:23] [Server thread/INFO]: King_GamesYT was killed
+[07:48:23] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-07.48.23.dat
+[07:48:23] [Server thread/INFO]: [King_GamesYT: Killed King_GamesYT]
+[07:48:28] [Server thread/INFO]: [King_GamesYT: Set own game mode to Survival Mode]
+[07:49:40] [Server thread/INFO]: [King_GamesYT: Set own game mode to Creative Mode]
+[07:49:50] [Server thread/INFO]: [King_GamesYT: Set own game mode to Survival Mode]
