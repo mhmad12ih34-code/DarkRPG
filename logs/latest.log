@@ -1102,3 +1102,4 @@ java.lang.NullPointerException: uuid
 [05:55:47] [Server thread/INFO]: Player literal{King_GamesYT} chose Origin: consularsorigins:enchantling, for layer: origins:origin
 [05:56:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 2029MB, After: 2031MB
 [05:56:24] [Server thread/INFO]: Player literal{King_GamesYT} chose Origin: aspects:anemo_layers/tempus, for layer: aspects:origins
+[05:58:21] [Server thread/INFO]: Player empty chose Origin: origins-classes:miner, for layer: origins-classes:class
