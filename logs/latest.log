@@ -95,3 +95,124 @@
 [00:21:07] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.21.07.dat
 [00:22:41] [Server thread/INFO]: King_GamesYT was slain by dcx501
 [00:22:41] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.22.41.dat
+[00:23:56] [Server thread/INFO]: dcx501 has completed the challenge [Pass The Dip (Quest)]
+[00:24:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
+[00:24:56] [Server thread/INFO]: King_GamesYT lost connection: Timed out
+[00:24:56] [Server thread/INFO]: King_GamesYT left the game
+[00:24:56] [Server thread/INFO]: Updating all forceload tickets for 3febcda1-a62f-3011-a4b4-2a1e828dc020
+[00:26:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1427MB, After: 1432MB
+[00:26:58] [Server thread/INFO]: dcx501 has made the advancement [Mom, I'm homesick]
+[00:27:34] [Server thread/INFO]: [Handshake] Sending channel query
+[00:27:34] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for King_GamesYT
+java.lang.NullPointerException: uuid
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
+	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar:?]
+	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:43) ~[vanilla-permissions-0.2.9+1.20.1.jar:?]
+	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.minecraft.class_3248.redirect$ddp000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[00:27:34] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for King_GamesYT
+java.lang.NullPointerException: uuid
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
+	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar:?]
+	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:43) ~[vanilla-permissions-0.2.9+1.20.1.jar:?]
+	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.minecraft.class_3248.redirect$ddp000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[00:27:34] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for King_GamesYT
+java.lang.NullPointerException: uuid
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
+	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar:?]
+	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:43) ~[vanilla-permissions-0.2.9+1.20.1.jar:?]
+	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.minecraft.class_3248.redirect$ddp000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[00:27:35] [Server thread/INFO]: King_GamesYT[/127.0.0.1:46890] logged in with entity id 19068 at (-7.189699281563144, 111.90056107064247, -66.20879671226146)
+[00:27:35] [Server thread/INFO]: Sending server config values to client
+[00:27:35] [Server thread/INFO]: Loading config from file...
+[00:27:35] [Server thread/INFO]: King_GamesYT joined the game
+[00:27:35] [Server thread/INFO]: Updating all forceload tickets for 3febcda1-a62f-3011-a4b4-2a1e828dc020
+[00:27:36] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[00:28:21] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:28:21] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.28.21.dat
+[00:30:50] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:30:50] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.30.50.dat
+[00:30:56] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:30:56] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.30.56.dat
+[00:31:40] [Server thread/INFO]: dcx501 was blown up by Creeper
+[00:31:40] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.31.40.dat
+[00:31:47] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:31:47] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.31.47.dat
+[00:31:52] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:31:52] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.31.52.dat
+[00:31:57] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[00:31:57] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.31.57.dat
+[00:32:00] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:32:00] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.32.00.dat
+[00:32:15] [Server thread/INFO]: [King_GamesYT: Applied effect Strength to King_GamesYT]
+[00:32:16] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[00:32:16] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.32.16.dat
+[00:32:24] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[00:32:24] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.32.24.dat
+[00:32:33] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[00:32:33] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.32.33.dat
+[00:32:37] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:32:37] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.32.37.dat
+[00:37:06] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:37:06] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.37.06.dat
+[00:37:11] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[00:37:11] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.37.11.dat
+[00:37:15] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:37:15] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.37.15.dat
+[00:37:18] [Server thread/INFO]: [King_GamesYT: Applied effect Strength to King_GamesYT]
+[00:37:19] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[00:37:19] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.37.19.dat
+[00:37:28] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[00:37:28] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.37.28.dat
+[00:37:33] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[00:37:33] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.37.33.dat
+[00:39:14] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[00:39:14] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.39.14.dat
+[00:39:30] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:39:30] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.39.30.dat
+[00:40:45] [Server thread/INFO]: dcx501 has completed the challenge [The Jailer (Quest)]
+[00:41:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1841MB, After: 1846MB
+[00:43:19] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[00:43:19] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.43.19.dat
+[00:43:19] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:43:19] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.43.19.dat
+[00:43:37] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[00:43:37] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.43.37.dat
+[00:43:42] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:43:42] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.43.42.dat
+[00:45:46] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[00:45:46] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_29.05.2026-00.45.46.dat
+[00:45:55] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[00:45:55] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-00.45.55.dat

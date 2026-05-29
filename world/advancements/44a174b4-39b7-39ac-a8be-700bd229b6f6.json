@@ -13235,6 +13235,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "copperandtuffbackport:recipes/building_blocks/copper_grate": {
     "criteria": {
       "has_copper_block": "2026-05-28 23:39:50 +0000"
@@ -13250,6 +13256,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
     "criteria": {
       "has_birch_planks": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-29 00:40:50 +0000"
     },
     "done": true
   },
@@ -13283,6 +13295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
       "has_granite_corner_trim": "2026-05-28 23:44:45 +0000"
@@ -13292,6 +13310,12 @@
   "handcrafted:recipes/misc/birch_counter": {
     "criteria": {
       "has_birch_counter": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:gold_nugget": {
+    "criteria": {
+      "darkrpg_gold_nugget": "2026-05-29 00:23:56 +0000"
     },
     "done": true
   },
@@ -13325,9 +13349,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_fancy_bed": {
     "criteria": {
       "has_birch_fancy_bed": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-29 00:40:50 +0000"
     },
     "done": true
   },
@@ -13349,6 +13391,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2026-05-28 23:44:45 +0000"
@@ -13358,6 +13406,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-29 00:40:50 +0000"
     },
     "done": true
   },
@@ -13373,6 +13427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-05-29 00:23:56 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
     "criteria": {
       "has_birch_planks": "2026-05-28 23:37:25 +0000"
@@ -13385,9 +13445,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2026-05-28 23:44:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-05-29 00:40:50 +0000"
     },
     "done": true
   },
@@ -13400,6 +13478,12 @@
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2026-05-28 23:44:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-29 00:40:50 +0000"
     },
     "done": true
   },
@@ -13421,9 +13505,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2026-05-28 23:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-05-29 00:23:56 +0000"
     },
     "done": true
   },
@@ -13433,9 +13529,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_pillar_trim": {
     "criteria": {
       "has_birch_pillar_trim": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-05-29 00:40:50 +0000"
     },
     "done": true
   },
@@ -13559,6 +13673,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-05-29 00:40:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2026-05-28 23:44:45 +0000"
@@ -13574,6 +13694,24 @@
   "handcrafted:recipes/misc/granite_pillar_trim": {
     "criteria": {
       "has_granite_pillar_trim": "2026-05-28 23:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_dandelion": {
+    "criteria": {
+      "has_item": "2026-05-29 00:40:47 +0000"
     },
     "done": true
   },
@@ -13619,9 +13757,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/yellow_bowl": {
+    "criteria": {
+      "has_yellow_bowl": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2026-05-28 23:35:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-05-29 00:40:47 +0000"
     },
     "done": true
   },
@@ -13685,9 +13847,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/decorations/stripped_birch_table": {
     "criteria": {
       "has_birch_planks": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "cushypillows:recipes/building_blocks/dye_yellow_pillow": {
+    "criteria": {
+      "has_needed_dye": "2026-05-29 00:40:50 +0000"
     },
     "done": true
   },
@@ -13721,6 +13895,24 @@
     },
     "done": true
   },
+  "things:recall_potion": {
+    "criteria": {
+      "recall_potion": "2026-05-29 00:26:58 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:iron_bars": {
+    "criteria": {
+      "darkrpg_iron_bars": "2026-05-29 00:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2026-05-28 23:37:25 +0000"
@@ -13751,9 +13943,21 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/misc/shaped_crated_yellow_dye": {
+    "criteria": {
+      "has_item": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2026-05-28 23:44:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_yellow_cup": "2026-05-29 00:40:50 +0000"
     },
     "done": true
   },
@@ -13775,9 +13979,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
     "criteria": {
       "has_birch_planks": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_yellow_crockery_combo": "2026-05-29 00:40:50 +0000"
     },
     "done": true
   },
@@ -13847,6 +14063,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2026-05-28 23:44:45 +0000"
@@ -13859,6 +14081,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
     "criteria": {
       "has_birch_planks": "2026-05-28 23:37:25 +0000"
@@ -13868,6 +14096,12 @@
   "copperandtuffbackport:recipes/redstone/copper_door": {
     "criteria": {
       "has_copper_block": "2026-05-28 23:39:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+    "criteria": {
+      "has_dye": "2026-05-29 00:40:50 +0000"
     },
     "done": true
   },

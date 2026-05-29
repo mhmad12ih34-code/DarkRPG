@@ -14271,5 +14271,11 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/green_coffin": {
+    "criteria": {
+      "has_item": "2026-05-29 00:24:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
