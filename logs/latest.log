@@ -6074,3 +6074,4 @@ com.google.gson.JsonSyntaxException: Missing tiers
 [09:43:24] [Server thread/INFO]: [STDOUT]: Caching sets
 [09:58:24] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1244MB, After: 1244MB
 [10:13:24] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1284MB, After: 1285MB
+[10:28:24] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1265MB, After: 1266MB
