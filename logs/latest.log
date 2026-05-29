@@ -1105,3 +1105,19 @@ java.lang.NullPointerException: uuid
 [05:58:21] [Server thread/INFO]: Player empty chose Origin: origins-classes:miner, for layer: origins-classes:class
 [06:11:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1930MB, After: 1933MB
 [06:26:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1476MB, After: 1479MB
+[06:40:44] [Server thread/INFO]: King_GamesYT has made the advancement [Cobblestone Addiction: I]
+[06:41:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1551MB, After: 1554MB
+[06:42:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[06:44:05] [Server thread/INFO]: King_GamesYT has completed the challenge [Ladders Without Snakes (Quest)]
+[06:44:56] [Server thread/INFO]: King_GamesYT has made the advancement [The Second Step]
+[06:45:27] [Server thread/INFO]: King_GamesYT has made the advancement [Iron Addiction: I]
+[06:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[06:52:18] [Server thread/INFO]: [King_GamesYT: Gave 5 [Steak] to King_GamesYT]
+[06:52:44] [Server thread/INFO]: [King_GamesYT: Gave 5 [Golden Carrot] to King_GamesYT]
+[06:53:22] [Server thread/INFO]: [King_GamesYT: Gave 2 [Golden Apple] to King_GamesYT]
+[06:53:43] [Server thread/INFO]: [King_GamesYT: Gave 1 [Orb of Origin] to King_GamesYT]
+[06:54:30] [Server thread/INFO]: Player literal{King_GamesYT} chose Origin: aspects:anemo_layers/anemo, for layer: aspects:elements
+[06:56:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1939MB, After: 1944MB
+[07:01:25] [Server thread/INFO]: Player literal{King_GamesYT} chose Origin: consularsorigins:enchantling, for layer: origins:origin
+[07:01:41] [Server thread/INFO]: Player literal{King_GamesYT} chose Origin: aspects:anemo_layers/tempus, for layer: aspects:origins
+[07:05:03] [Server thread/INFO]: Player empty chose Origin: origins-classes:explorer, for layer: origins-classes:class

@@ -14471,6 +14471,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shapeless_c1_coal_block": {
+    "criteria": {
+      "has_item": "2026-05-29 06:49:43 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/building_blocks/reinforced_copper_glass": {
     "criteria": {
       "has_copper_nugget": "2026-05-29 06:27:09 +0000"
@@ -14480,6 +14486,12 @@
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c2_obsidian": {
+    "criteria": {
+      "has_item": "2026-05-29 06:45:50 +0000"
     },
     "done": true
   },
@@ -14534,6 +14546,12 @@
   "compressedblocks:recipes/building_blocks/shaped_c0_cracked_stone_bricks": {
     "criteria": {
       "has_item": "2026-05-29 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shapeless_c0_coal_block": {
+    "criteria": {
+      "has_item": "2026-05-29 06:45:13 +0000"
     },
     "done": true
   },
@@ -14651,9 +14669,21 @@
     },
     "done": true
   },
+  "darkrpg:ladder": {
+    "criteria": {
+      "darkrpg_ladder": "2026-05-29 06:44:05 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/opulent_armor_helmet": {
     "criteria": {
       "has_emerald_gear_helmet": "2026-05-29 01:27:22 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c2_coal_block": {
+    "criteria": {
+      "has_item": "2026-05-29 06:49:43 +0000"
     },
     "done": true
   },
@@ -14666,6 +14696,18 @@
   "minecraft:recipes/building_blocks/medium_ingot_from_blasting_raw_medium": {
     "criteria": {
       "has_raw_medium": "2026-05-29 03:06:05 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shapeless_c0_cobblestone": {
+    "criteria": {
+      "has_item": "2026-05-29 06:40:44 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:addiction/c0_iron_edition": {
+    "criteria": {
+      "get_c0_iron_edition": "2026-05-29 06:45:27 +0000"
     },
     "done": true
   },
@@ -14735,9 +14777,27 @@
     },
     "done": true
   },
+  "compressedblocks:compression/c1": {
+    "criteria": {
+      "get_c1": "2026-05-29 06:44:56 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2026-05-29 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shapeless_c0_lapis_block": {
+    "criteria": {
+      "has_item": "2026-05-29 06:46:07 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c1_lapis_block": {
+    "criteria": {
+      "has_item": "2026-05-29 06:46:07 +0000"
     },
     "done": true
   },
@@ -14771,6 +14831,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shapeless_c0_netherrack": {
+    "criteria": {
+      "has_item": "2026-05-29 06:41:52 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
@@ -14792,6 +14858,12 @@
   "regions_unexplored:recipes/building_blocks/yellow_bioshroom_planks": {
     "criteria": {
       "has_logs": "2026-05-29 03:08:40 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c1_cobblestone": {
+    "criteria": {
+      "has_item": "2026-05-29 06:40:44 +0000"
     },
     "done": true
   },
@@ -14822,6 +14894,12 @@
   "soulsweapons:recipes/combat/frostmourne": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shapeless_c0_iron_block": {
+    "criteria": {
+      "has_item": "2026-05-29 06:45:27 +0000"
     },
     "done": true
   },
@@ -14864,6 +14942,12 @@
   "compressedblocks:recipes/misc/shaped_crated_beetroot": {
     "criteria": {
       "has_item": "2026-05-29 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:addiction/c0_cobblestone_edition": {
+    "criteria": {
+      "get_c0_cobblestone_edition": "2026-05-29 06:40:44 +0000"
     },
     "done": true
   },
@@ -14921,6 +15005,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shaped_c1_netherrack": {
+    "criteria": {
+      "has_item": "2026-05-29 06:41:52 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/beetroot_salad": {
     "criteria": {
       "has_beetroot": "2026-05-29 02:15:43 +0000"
@@ -14951,6 +15041,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shapeless_c0_obsidian": {
+    "criteria": {
+      "has_item": "2026-05-29 06:41:00 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/dragonbane": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
@@ -14966,6 +15062,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2026-05-29 03:56:24 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shapeless_c1_obsidian": {
+    "criteria": {
+      "has_item": "2026-05-29 06:45:50 +0000"
     },
     "done": true
   },
@@ -14990,6 +15092,18 @@
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c2_cobbled_deepslate": {
+    "criteria": {
+      "has_item": "2026-05-29 06:44:56 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c1_iron_block": {
+    "criteria": {
+      "has_item": "2026-05-29 06:45:27 +0000"
     },
     "done": true
   },
@@ -15041,12 +15155,24 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shaped_c1_obsidian": {
+    "criteria": {
+      "has_item": "2026-05-29 06:41:00 +0000"
+    },
+    "done": true
+  },
   "batsgalore:candy_collection": {
     "criteria": {
       "zombie_flesh_lollipop": "2026-05-29 02:13:09 +0000",
       "wither_skull_candy": "2026-05-29 03:58:45 +0000"
     },
     "done": false
+  },
+  "compressedblocks:recipes/building_blocks/shapeless_c1_cobbled_deepslate": {
+    "criteria": {
+      "has_item": "2026-05-29 06:44:56 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
@@ -15069,6 +15195,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2026-05-29 04:10:45 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c1_coal_block": {
+    "criteria": {
+      "has_item": "2026-05-29 06:45:13 +0000"
     },
     "done": true
   },
