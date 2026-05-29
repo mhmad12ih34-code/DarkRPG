@@ -1271,3 +1271,21 @@ java.lang.NullPointerException: uuid
 [07:48:28] [Server thread/INFO]: [King_GamesYT: Set own game mode to Survival Mode]
 [07:49:40] [Server thread/INFO]: [King_GamesYT: Set own game mode to Creative Mode]
 [07:49:50] [Server thread/INFO]: [King_GamesYT: Set own game mode to Survival Mode]
+[07:55:54] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:281) ~[?:?]
+	at java.lang.System$In.read(System.java:1871) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:328) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:388) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:183) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:166) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
+	at net.minecraft.class_3176$1.run(class_3176.java:89) ~[server-intermediary.jar:?]
+[07:55:54] [Server thread/INFO]: King_GamesYT lost connection: Disconnected
+[07:55:54] [Server thread/INFO]: King_GamesYT left the game
+[07:55:54] [Server thread/INFO]: Updating all forceload tickets for 3febcda1-a62f-3011-a4b4-2a1e828dc020
