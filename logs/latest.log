@@ -6149,3 +6149,4 @@ java.lang.NullPointerException: uuid
 [11:07:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
 [11:15:15] [Server thread/INFO]: <King_GamesYT> lagg
 [11:15:17] [Server thread/INFO]: <King_GamesYT> lag
+[11:19:40] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 2482MB, After: 2487MB
