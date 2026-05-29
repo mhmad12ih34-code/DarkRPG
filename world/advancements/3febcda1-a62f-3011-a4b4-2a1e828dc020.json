@@ -14277,5 +14277,29 @@
     },
     "done": true
   },
+  "clutter:recipes/combat/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2026-05-29 00:46:50 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/combat/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2026-05-29 00:46:50 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/combat/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2026-05-29 00:46:50 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/combat/silver_leggings": {
+    "criteria": {
+      "has_silver_ingot": "2026-05-29 00:46:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

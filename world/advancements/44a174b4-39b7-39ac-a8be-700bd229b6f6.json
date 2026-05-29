@@ -13349,6 +13349,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/green_coffin": {
+    "criteria": {
+      "has_item": "2026-05-29 00:47:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2026-05-29 00:40:50 +0000"
@@ -13376,6 +13382,12 @@
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2026-05-28 23:39:50 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_kelp": {
+    "criteria": {
+      "has_item": "2026-05-29 00:48:43 +0000"
     },
     "done": true
   },
@@ -13454,6 +13466,18 @@
   "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-05-29 00:48:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2026-05-29 00:48:05 +0000"
     },
     "done": true
   },
@@ -13595,6 +13619,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shaped_c0_redstone_block": {
+    "criteria": {
+      "has_item": "2026-05-29 00:53:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2026-05-28 23:13:44 +0000"
@@ -13697,6 +13727,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/climbing_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2026-05-29 00:48:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2026-05-29 00:40:50 +0000"
@@ -13739,9 +13775,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-05-29 00:48:43 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_granite": {
     "criteria": {
       "has_item": "2026-05-28 23:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-05-29 00:48:43 +0000"
     },
     "done": true
   },
@@ -13784,6 +13832,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2026-05-29 00:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2026-05-29 00:53:23 +0000"
     },
     "done": true
   },
@@ -13886,6 +13940,12 @@
   "clutter:recipes/decorations/birch_bench": {
     "criteria": {
       "has_birch_planks": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2026-05-29 00:48:05 +0000"
     },
     "done": true
   },
@@ -14066,6 +14126,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
     "criteria": {
       "has_yellow_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2026-05-29 00:48:05 +0000"
     },
     "done": true
   },
