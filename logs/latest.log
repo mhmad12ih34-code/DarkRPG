@@ -892,3 +892,76 @@ java.lang.NullPointerException: uuid
 [03:33:05] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-03.33.05.dat
 [03:34:39] [Server thread/INFO]: Red_KingTY was slain by Invading Forlorn
 [03:34:39] [Server thread/INFO]: Red_KingTY has completed the challenge [This is Bonfires]
+[03:35:47] [Server thread/INFO]: Red_KingTY has made the advancement [Sweet Dreams]
+[03:36:17] [Server thread/INFO]: Red_KingTY has made the advancement ['X' Marks the Spot]
+[03:36:19] [Server thread/INFO]: ok_98 was slain by Zombie
+[03:36:19] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-03.36.19.dat
+[03:36:23] [Server thread/INFO]: Red_KingTY has made the advancement [Barrel Booty]
+[03:36:36] [Worker-Main-151/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/75954, l='ServerLevel[world]', x=276.00, y=31.00, z=917.00] as it would cause deadlock
+[03:36:36] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/75957, l='ServerLevel[world]', x=276.00, y=31.00, z=917.00] as it would cause deadlock
+[03:36:37] [Server thread/INFO]: Red_KingTY was slain by King_GamesYT
+[03:36:51] [Worker-Main-152/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/75978, l='ServerLevel[world]', x=416.90, y=31.00, z=727.00] as it would cause deadlock
+[03:36:51] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/75980, l='ServerLevel[world]', x=416.90, y=31.00, z=727.00] as it would cause deadlock
+[03:36:57] [Server thread/INFO]: Red_KingTY was slain by ok_98
+[03:37:11] [Server thread/INFO]: Red_KingTY was slain by King_GamesYT
+[03:37:16] [Server thread/INFO]: King_GamesYT was slain by ok_98
+[03:37:16] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-03.37.16.dat
+[03:38:07] [Server thread/INFO]: Red_KingTY has made the advancement [Acquire Hardware]
+[03:38:13] [Server thread/INFO]: Red_KingTY has made the advancement [Diamonds!]
+[03:38:14] [Server thread/INFO]: Red_KingTY has made the advancement [Suit Up]
+[03:38:50] [Server thread/INFO]: Red_KingTY took a bath for too long
+[03:39:09] [Server thread/INFO]: Red_KingTY was slain by King_GamesYT
+[03:39:31] [Server thread/INFO]: ok_98 was slain by Zombie
+[03:39:31] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-03.39.31.dat
+[03:40:02] [Server thread/INFO]: Red_KingTY was slain by King_GamesYT
+[03:40:44] [Server thread/INFO]: Red_KingTY has completed the challenge [Charcoal Toothpaste (Quest)]
+[03:40:52] [Server thread/INFO]: King_GamesYT was slain by Red_KingTY
+[03:40:52] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-03.40.52.dat
+[03:41:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1952MB, After: 1972MB
+[03:41:23] [Server thread/INFO]: ok_98 has made the advancement [Chest Slayer]
+[03:41:33] [Server thread/INFO]: dcx501 has completed the challenge [Glow In The Dark (Quest)]
+[03:42:06] [Worker-Main-151/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/78518, l='ServerLevel[world]', x=583.00, y=86.00, z=875.00] as it would cause deadlock
+[03:42:17] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/78574, l='ServerLevel[world]', x=583.00, y=86.00, z=875.00] as it would cause deadlock
+[03:42:26] [Server thread/INFO]: King_GamesYT has completed the challenge [Charcoal Toothpaste (Quest)]
+[03:42:28] [Server thread/INFO]: Red_KingTY has made the advancement [Disme A Dozen]
+[03:42:35] [Server thread/INFO]: Red_KingTY was slain by Zombie
+[03:43:27] [Server thread/INFO]: Red_KingTY has completed the challenge [Metal Sneakers (Quest)]
+[03:43:38] [Worker-Main-151/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/79142, l='ServerLevel[world]', x=731.00, y=31.00, z=537.00] as it would cause deadlock
+[03:43:38] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/79149, l='ServerLevel[world]', x=731.00, y=31.00, z=537.00] as it would cause deadlock
+[03:43:49] [Server thread/INFO]: Red_KingTY has made the advancement [Isn't It Iron Pick]
+[03:44:25] [Server thread/INFO]: ok_98 was slain by Zombie
+[03:44:25] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-03.44.25.dat
+[03:44:38] [Server thread/INFO]: Red_KingTY has made the advancement [Stone Age]
+[03:44:59] [Server thread/INFO]: ok_98 was slain by Zombie
+[03:44:59] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-03.44.59.dat
+[03:45:12] [Server thread/INFO]: ok_98 has completed the challenge [Dedicated Survivor (Quest)]
+[03:45:33] [Server thread/INFO]: Red_KingTY was slain by King_GamesYT
+[03:45:38] [Server thread/INFO]: Red_KingTY was slain by King_GamesYT
+[03:45:41] [Server thread/INFO]: King_GamesYT was slain by Red_KingTY
+[03:45:41] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-03.45.41.dat
+[03:45:54] [Server thread/INFO]: King_GamesYT was slain by Red_KingTY
+[03:45:54] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-03.45.54.dat
+[03:45:59] [Server thread/INFO]: Red_KingTY was slain by King_GamesYT
+[03:46:43] [Worker-Main-153/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/80807, l='ServerLevel[world]', x=689.00, y=31.00, z=459.00] as it would cause deadlock
+[03:46:43] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/80814, l='ServerLevel[world]', x=689.00, y=31.00, z=459.00] as it would cause deadlock
+[03:47:50] [Server thread/INFO]: King_GamesYT has completed the challenge [Repair, Rename and Combine! (Quest)]
+[03:48:11] [Server thread/INFO]: King_GamesYT was slain by Red_KingTY
+[03:48:11] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-03.48.11.dat
+[03:48:17] [Server thread/INFO]: Red_KingTY was doomed to fall by King_GamesYT
+[03:48:38] [Server thread/INFO]: Red_KingTY has reached the goal [My Brother]
+[03:49:00] [Server thread/INFO]: [King_GamesYT: Teleported King_GamesYT to Red_KingTY]
+[03:49:11] [Server thread/INFO]: ok_98 was slain by Zombie
+[03:49:11] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-03.49.11.dat
+[03:49:25] [Server thread/INFO]: King_GamesYT was slain by Red_KingTY
+[03:49:25] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-03.49.25.dat
+[03:49:30] [Server thread/INFO]: [King_GamesYT: Teleported King_GamesYT to Red_KingTY]
+[03:49:36] [Server thread/INFO]: Red_KingTY was slain by Zombified Piglin
+[03:49:47] [Server thread/INFO]: Red_KingTY was slain by Zombified Piglin
+[03:50:06] [Server thread/INFO]: Red_KingTY was slain by Zombified Piglin
+[03:50:10] [Server thread/INFO]: [King_GamesYT: Teleported King_GamesYT to ok_98]
+[03:50:28] [Worker-Main-152/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/82966, l='ServerLevel[world]', x=772.00, y=31.00, z=438.00] as it would cause deadlock
+[03:50:28] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/82969, l='ServerLevel[world]', x=772.00, y=31.00, z=438.00] as it would cause deadlock
+[03:50:38] [Server thread/INFO]: Red_KingTY was slain by Zombified Piglin
+[03:50:56] [Server thread/INFO]: ok_98 has made the advancement [Base for upgrades]
+[03:51:05] [Server thread/INFO]: Red_KingTY was slain by Invading Forlorn
+[03:51:08] [Server thread/INFO]: ok_98 has made the advancement [Diamond Tier Upgrade]

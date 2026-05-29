@@ -14373,6 +14373,12 @@
     },
     "done": false
   },
+  "consularsorigins:nether": {
+    "criteria": {
+      "nether": "2026-05-29 03:49:30 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/mehrunes_razor": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
@@ -14397,6 +14403,12 @@
     },
     "done": true
   },
+  "consularsorigins:overworld": {
+    "criteria": {
+      "overworld": "2026-05-29 03:50:10 +0000"
+    },
+    "done": true
+  },
   "batsgalore:bat_death": {
     "criteria": {
       "undead_bat": "2026-05-29 02:13:09 +0000"
@@ -14415,9 +14427,21 @@
     },
     "done": true
   },
+  "darkrpg:anvil": {
+    "criteria": {
+      "darkrpg_anvil": "2026-05-29 03:47:50 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_anvil": {
+    "criteria": {
+      "has_item": "2026-05-29 03:47:50 +0000"
     },
     "done": true
   },
@@ -14490,6 +14514,12 @@
   "soulsweapons:recipes/combat/mjolnir": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2026-05-29 03:47:50 +0000"
     },
     "done": true
   },
@@ -14655,6 +14685,12 @@
     },
     "done": true
   },
+  "darkrpg:charcoal": {
+    "criteria": {
+      "darkrpg_charcoal": "2026-05-29 03:42:26 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_beetroot": {
     "criteria": {
       "has_item": "2026-05-29 02:15:43 +0000"
@@ -14682,6 +14718,12 @@
   "soulsweapons:recipes/combat/freyr_sword": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_charcoal": {
+    "criteria": {
+      "has_item": "2026-05-29 03:42:26 +0000"
     },
     "done": true
   },

@@ -2501,6 +2501,7 @@
       "magnolia_highlands": "2026-05-26 22:45:24 +0000",
       "mountains": "2026-05-28 08:58:51 +0000",
       "boreal_forest": "2026-05-27 00:29:54 +0000",
+      "glistering_meadow": "2026-05-29 03:43:17 +0000",
       "blackstone_basin": "2026-05-29 02:13:03 +0000",
       "infernal_holt": "2026-05-29 03:13:03 +0000",
       "temperate_grove": "2026-05-26 23:53:57 +0000",
@@ -3222,6 +3223,7 @@
     "criteria": {
       "minecraft:skeleton": "2026-05-26 22:54:28 +0000",
       "minecraft:hoglin": "2026-05-27 22:31:32 +0000",
+      "minecraft:magma_cube": "2026-05-29 03:34:07 +0000",
       "minecraft:spider": "2026-05-26 23:46:26 +0000",
       "minecraft:piglin_brute": "2026-05-29 03:20:53 +0000",
       "minecraft:creeper": "2026-05-26 23:26:00 +0000",
@@ -14458,7 +14460,8 @@
     "criteria": {
       "mycotoxic_undergrowth": "2026-05-29 02:12:41 +0000",
       "blackstone_basin": "2026-05-29 02:13:03 +0000",
-      "infernal_holt": "2026-05-29 03:13:03 +0000"
+      "infernal_holt": "2026-05-29 03:13:03 +0000",
+      "glistering_meadow": "2026-05-29 03:43:17 +0000"
     },
     "done": false
   },
@@ -14583,10 +14586,17 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shaped_c0_glowstone": {
+    "criteria": {
+      "has_item": "2026-05-29 03:41:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2026-05-29 02:50:34 +0000",
       "minecraft:nether_wastes": "2026-05-29 03:27:34 +0000",
+      "minecraft:basalt_deltas": "2026-05-29 03:32:33 +0000",
       "minecraft:warped_forest": "2026-05-29 03:28:09 +0000"
     },
     "done": false
@@ -14633,6 +14643,12 @@
     },
     "done": true
   },
+  "clutter:recipes/building_blocks/black_onyx_block": {
+    "criteria": {
+      "has_sulphur": "2026-05-29 03:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
@@ -14654,6 +14670,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2026-05-29 03:41:33 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/polished_black_onyx_slab": {
+    "criteria": {
+      "has_sulphur": "2026-05-29 03:34:53 +0000"
     },
     "done": true
   },
@@ -14699,6 +14727,12 @@
     },
     "done": true
   },
+  "darkrpg:glowstone": {
+    "criteria": {
+      "darkrpg_glowstone": "2026-05-29 03:41:33 +0000"
+    },
+    "done": true
+  },
   "darkrpg:nether_bricks": {
     "criteria": {
       "darkrpg_nether_bricks": "2026-05-29 03:16:15 +0000"
@@ -14729,6 +14763,12 @@
     },
     "done": true
   },
+  "clutter:recipes/building_blocks/polished_black_onyx_stairs": {
+    "criteria": {
+      "has_sulphur": "2026-05-29 03:34:53 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/chiseled_polished_blackstone_holder_recipe": {
     "criteria": {
       "got_blackstone": "2026-05-29 02:44:57 +0000"
@@ -14753,6 +14793,18 @@
     },
     "done": true
   },
+  "clutter:recipes/building_blocks/polished_black_onyx_wall": {
+    "criteria": {
+      "has_sulphur": "2026-05-29 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/black_onyx_slab": {
+    "criteria": {
+      "has_sulphur": "2026-05-29 03:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
@@ -14774,6 +14826,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-05-29 03:41:33 +0000"
     },
     "done": true
   },
@@ -14819,11 +14877,29 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
+    "criteria": {
+      "has_core_specification_item": "2026-05-29 03:41:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2026-05-29 03:16:07 +0000"
     },
     "done": true
+  },
+  "clutter:recipes/building_blocks/black_onyx_stairs": {
+    "criteria": {
+      "has_sulphur": "2026-05-29 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:more_magma_cube": {
+    "criteria": {
+      "darkrpg_more_magma_cube": "2026-05-29 03:34:07 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
@@ -14831,9 +14907,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2026-05-29 03:38:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2026-05-29 03:41:33 +0000"
     },
     "done": true
   },
@@ -14861,15 +14949,33 @@
     },
     "done": true
   },
+  "clutter:recipes/building_blocks/black_onyx_wall": {
+    "criteria": {
+      "has_sulphur": "2026-05-29 03:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
     },
     "done": true
   },
+  "compressedblocks:recipes/misc/shaped_crated_magma_cream": {
+    "criteria": {
+      "has_item": "2026-05-29 03:41:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/building_blocks/polished_black_onyx": {
+    "criteria": {
+      "has_sulphur": "2026-05-29 03:34:53 +0000"
     },
     "done": true
   },
@@ -14933,6 +15039,12 @@
     },
     "done": true
   },
+  "darkrpg:magma_cube": {
+    "criteria": {
+      "darkrpg_magma_cube": "2026-05-29 03:34:07 +0000"
+    },
+    "done": false
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_blackstone": {
     "criteria": {
       "has_item": "2026-05-29 02:44:57 +0000"
@@ -14942,6 +15054,12 @@
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_shroomlight": {
+    "criteria": {
+      "has_item": "2026-05-29 03:41:40 +0000"
     },
     "done": true
   },
@@ -15053,6 +15171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2026-05-29 03:38:01 +0000"
+    },
+    "done": true
+  },
   "darkrpg:red_nether_bricks": {
     "criteria": {
       "darkrpg_red_nether_bricks": "2026-05-29 03:16:07 +0000"
@@ -15083,6 +15207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2026-05-29 03:38:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
@@ -15106,6 +15236,12 @@
       "has_item": "2026-05-29 03:16:15 +0000"
     },
     "done": true
+  },
+  "darkrpg:even_more_magma_cube": {
+    "criteria": {
+      "darkrpg_even_more_magma_cube": "2026-05-29 03:34:07 +0000"
+    },
+    "done": false
   },
   "soulsweapons:all_weapons": {
     "criteria": {
@@ -15140,6 +15276,12 @@
   "mythicupgrades:recipes/misc/ruby_ingot": {
     "criteria": {
       "has_necessary_ingredients": "2026-05-29 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_basalt": {
+    "criteria": {
+      "has_item": "2026-05-29 03:38:01 +0000"
     },
     "done": true
   },
