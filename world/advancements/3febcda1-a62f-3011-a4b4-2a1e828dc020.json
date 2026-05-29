@@ -20,6 +20,7 @@
       "minecraft:ocean": "2026-05-27 16:31:04 +0000",
       "minecraft:flower_forest": "2026-05-26 23:16:19 +0000",
       "minecraft:deep_dark": "2026-05-27 11:05:34 +0000",
+      "minecraft:meadow": "2026-05-29 07:43:02 +0000",
       "minecraft:plains": "2026-05-17 21:53:50 +0000"
     },
     "done": false
@@ -680,6 +681,7 @@
       "minecraft:creeper": "2026-05-27 01:46:17 +0000",
       "minecraft:zombified_piglin": "2026-05-29 02:16:12 +0000",
       "minecraft:wither_skeleton": "2026-05-29 02:14:46 +0000",
+      "minecraft:husk": "2026-05-29 07:39:23 +0000",
       "minecraft:piglin": "2026-05-29 04:02:01 +0000",
       "minecraft:enderman": "2026-05-27 10:37:21 +0000",
       "minecraft:zombie": "2026-05-26 23:07:46 +0000"
@@ -9655,9 +9657,10 @@
   },
   "amethyst_imbuement:progression/basic_materials_1": {
     "criteria": {
+      "got_obby": "2026-05-29 07:36:53 +0000",
       "got_amethyst": "2026-05-27 02:34:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "copperandtuffbackport:recipes/building_blocks/copper_grate": {
     "criteria": {
@@ -14502,9 +14505,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/voodoo_protection_poppet": {
+    "criteria": {
+      "has_item": "2026-05-29 07:41:10 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/leviathan_axe_right": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_poppet": {
+    "criteria": {
+      "has_item": "2026-05-29 07:41:10 +0000"
     },
     "done": true
   },
@@ -14535,6 +14550,18 @@
   "regions_unexplored:recipes/building_blocks/yellow_bioshroom_hyphae": {
     "criteria": {
       "has_log": "2026-05-29 03:08:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2026-05-29 07:39:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2026-05-29 07:39:41 +0000"
     },
     "done": true
   },
@@ -14622,9 +14649,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/protection_poppet": {
+    "criteria": {
+      "has_item": "2026-05-29 07:41:10 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shapeless_c0_cobbled_deepslate": {
     "criteria": {
       "has_item": "2026-05-29 02:52:09 +0000"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:crying_obsidian": {
+    "criteria": {
+      "got_crying_obby": "2026-05-29 07:36:53 +0000"
     },
     "done": true
   },
@@ -14682,6 +14721,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/curse_poppet": {
+    "criteria": {
+      "has_item": "2026-05-29 07:41:10 +0000"
+    },
+    "done": true
+  },
   "darkrpg:ladder": {
     "criteria": {
       "darkrpg_ladder": "2026-05-29 06:44:05 +0000"
@@ -14697,6 +14742,12 @@
   "compressedblocks:recipes/building_blocks/shaped_c2_coal_block": {
     "criteria": {
       "has_item": "2026-05-29 06:49:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2026-05-29 07:39:41 +0000"
     },
     "done": true
   },
@@ -14757,6 +14808,18 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2026-05-29 03:56:24 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2026-05-29 07:41:10 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_hay_block": {
+    "criteria": {
+      "has_item": "2026-05-29 07:41:10 +0000"
     },
     "done": true
   },
@@ -14874,6 +14937,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/vampiric_poppet": {
+    "criteria": {
+      "has_item": "2026-05-29 07:41:10 +0000"
+    },
+    "done": true
+  },
   "darkrpg:diamond_block2": {
     "criteria": {
       "darkrpg_diamond_block2": "2026-05-29 04:30:02 +0000"
@@ -14901,6 +14970,12 @@
   "compressedblocks:recipes/building_blocks/shaped_c1_cobblestone": {
     "criteria": {
       "has_item": "2026-05-29 06:40:44 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/mending_poppet": {
+    "criteria": {
+      "has_item": "2026-05-29 07:41:10 +0000"
     },
     "done": true
   },
@@ -14970,6 +15045,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-05-29 07:36:53 +0000"
+    },
+    "done": true
+  },
   "darkrpg:charcoal": {
     "criteria": {
       "darkrpg_charcoal": "2026-05-29 03:42:26 +0000"
@@ -15000,6 +15081,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/fatigue_poppet": {
+    "criteria": {
+      "has_item": "2026-05-29 07:41:10 +0000"
+    },
+    "done": true
+  },
   "amethyst_imbuement:progression/quartz": {
     "criteria": {
       "got_quartz": "2026-05-29 02:12:42 +0000"
@@ -15027,6 +15114,12 @@
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2026-05-29 06:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2026-05-29 07:36:53 +0000"
     },
     "done": true
   },
@@ -15072,6 +15165,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/judgment_poppet": {
+    "criteria": {
+      "has_item": "2026-05-29 07:41:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2026-05-29 05:04:14 +0000"
@@ -15099,6 +15198,12 @@
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2026-05-29 07:05:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grotesque_stew": {
+    "criteria": {
+      "has_item": "2026-05-29 07:39:41 +0000"
     },
     "done": true
   },
@@ -15135,6 +15240,12 @@
   "clutter:recipes/misc/sculk_mushroom_from_sculk_vein_and_red_mushroom": {
     "criteria": {
       "has_red_mushroom": "2026-05-29 04:10:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2026-05-29 07:39:41 +0000"
     },
     "done": true
   },
@@ -15223,6 +15334,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-05-29 07:44:12 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shapeless_c1_cobbled_deepslate": {
     "criteria": {
       "has_item": "2026-05-29 06:44:56 +0000"
@@ -15262,6 +15379,18 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2026-05-29 03:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2026-05-29 07:41:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/death_protection_poppet": {
+    "criteria": {
+      "has_item": "2026-05-29 07:41:10 +0000"
     },
     "done": true
   },

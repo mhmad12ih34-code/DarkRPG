@@ -126,6 +126,9 @@
       "minecraft:deep_ocean": "2026-05-27 08:42:03 +0000",
       "minecraft:sunflower_plains": "2026-05-27 08:39:32 +0000",
       "minecraft:birch_forest": "2026-05-27 08:47:01 +0000",
+      "minecraft:bamboo_jungle": "2026-05-29 07:46:28 +0000",
+      "minecraft:beach": "2026-05-29 07:41:26 +0000",
+      "minecraft:sparse_jungle": "2026-05-29 07:46:07 +0000",
       "minecraft:river": "2026-05-27 00:24:32 +0000",
       "minecraft:stony_shore": "2026-05-27 00:33:03 +0000",
       "minecraft:snowy_plains": "2026-05-27 07:43:41 +0000",
@@ -2529,10 +2532,13 @@
       "magnolia_highlands": "2026-05-27 00:26:40 +0000",
       "boreal_forest": "2026-05-27 00:41:18 +0000",
       "blackstone_basin": "2026-05-29 02:40:36 +0000",
+      "chalk_cliffs": "2026-05-29 07:45:48 +0000",
       "infernal_holt": "2026-05-29 02:41:22 +0000",
+      "bamboo_forest": "2026-05-29 07:42:47 +0000",
       "temperate_grove": "2026-05-27 08:41:37 +0000",
       "cold_river": "2026-05-27 07:45:04 +0000",
       "pine_slopes": "2026-05-27 08:41:44 +0000",
+      "redwoods": "2026-05-29 07:42:53 +0000",
       "golden_boreal_taiga": "2026-05-27 08:13:26 +0000",
       "lupine_plains": "2026-05-27 08:45:29 +0000"
     },
@@ -2553,9 +2559,12 @@
       "maple_forest": "2026-05-27 00:23:34 +0000",
       "magnolia_highlands": "2026-05-27 00:26:40 +0000",
       "boreal_forest": "2026-05-27 00:41:18 +0000",
+      "chalk_cliffs": "2026-05-29 07:45:48 +0000",
+      "bamboo_forest": "2026-05-29 07:42:47 +0000",
       "temperate_grove": "2026-05-27 08:41:37 +0000",
       "cold_river": "2026-05-27 07:45:04 +0000",
       "pine_slopes": "2026-05-27 08:41:44 +0000",
+      "redwoods": "2026-05-29 07:42:53 +0000",
       "golden_boreal_taiga": "2026-05-27 08:13:26 +0000",
       "lupine_plains": "2026-05-27 08:45:29 +0000"
     },
@@ -4366,7 +4375,8 @@
       "minecraft:husk": "2026-05-29 07:37:13 +0000",
       "minecraft:vex": "2026-05-27 08:26:01 +0000",
       "minecraft:zombie": "2026-05-27 07:43:35 +0000",
-      "minecraft:drowned": "2026-05-27 08:16:12 +0000"
+      "minecraft:drowned": "2026-05-27 08:16:12 +0000",
+      "minecraft:zombie_villager": "2026-05-29 07:39:43 +0000"
     },
     "done": false
   },
@@ -10712,6 +10722,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-29 07:41:17 +0000"
+    },
+    "done": true
+  },
   "more_rpg_content:silver_sword": {
     "criteria": {
       "items": "2026-05-29 07:36:40 +0000"
@@ -10730,6 +10746,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-29 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-05-29 07:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2026-05-29 07:35:53 +0000"
@@ -10742,9 +10770,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-29 07:41:17 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_polished_diorite": {
     "criteria": {
       "has_item": "2026-05-29 07:23:41 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_moss_block": {
+    "criteria": {
+      "has_item": "2026-05-29 07:44:05 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_red_mushroom": {
+    "criteria": {
+      "has_item": "2026-05-29 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-29 07:41:17 +0000"
     },
     "done": true
   },
@@ -10760,9 +10812,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-05-29 07:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2026-05-29 07:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2026-05-29 07:44:05 +0000"
     },
     "done": true
   },
@@ -10796,6 +10860,12 @@
     },
     "done": true
   },
+  "clutter:recipes/misc/sculk_mushroom_from_sculk_vein_and_red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-29 07:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2026-05-29 07:23:41 +0000"
@@ -10805,6 +10875,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2026-05-29 07:35:50 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/orc_skin_recipe": {
+    "criteria": {
+      "got_the_orc_skin": "2026-05-29 07:45:34 +0000"
     },
     "done": true
   },

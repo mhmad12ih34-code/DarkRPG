@@ -1255,3 +1255,12 @@ java.lang.NullPointerException: uuid
 [07:38:08] [Server thread/INFO]: Villager class_1646['Leatherworker'/110366, l='ServerLevel[world]', x=-2115.70, y=118.00, z=-456.21] died, message: 'Leatherworker was slain by Husk'
 [07:38:14] [Server thread/INFO]: ok_98 was slain by Husk
 [07:38:14] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-07.38.14.dat
+[07:41:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1970MB, After: 1993MB
+[07:41:44] [Server thread/INFO]: Villager class_1646['Villager'/113085, l='ServerLevel[world]', x=-2011.30, y=130.00, z=-477.36] died, message: 'Villager suffocated in a wall'
+[07:41:51] [Server thread/INFO]: [King_GamesYT: Summoned new Cow]
+[07:41:59] [Server thread/INFO]: [King_GamesYT: Set own game mode to Creative Mode]
+[07:42:21] [Server thread/INFO]: [King_GamesYT: Set own game mode to Survival Mode]
+[07:44:12] [Server thread/INFO]: King_GamesYT has made the advancement [What a Deal!]
+[07:46:31] [Server thread/INFO]: ok_98 lost connection: Disconnected
+[07:46:31] [Server thread/INFO]: ok_98 left the game
+[07:46:31] [Server thread/INFO]: Updating all forceload tickets for 78e5ed0d-3a1c-3eae-8729-1d2575cc650a
