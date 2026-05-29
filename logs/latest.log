@@ -6073,3 +6073,4 @@ com.google.gson.JsonSyntaxException: Missing tiers
 [09:43:24] [Server thread/INFO]: [Config.write] Saved config info to '/workspaces/DarkRPG/config/memorysweep.json'!
 [09:43:24] [Server thread/INFO]: [STDOUT]: Caching sets
 [09:58:24] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1244MB, After: 1244MB
+[10:13:24] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1284MB, After: 1285MB
