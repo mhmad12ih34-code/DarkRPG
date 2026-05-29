@@ -658,3 +658,10 @@ java.lang.NullPointerException: uuid
 [02:22:50] [Server thread/INFO]: King_GamesYT was slain by ok_98
 [02:22:50] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-02.22.50.dat
 [02:26:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 2002MB, After: 2014MB
+[02:29:37] [Server thread/WARN]: Boat (vehicle of King_GamesYT) moved wrongly! 0.62617520188995
+[02:29:37] [Server thread/WARN]: Boat (vehicle of King_GamesYT) moved wrongly! 1.0855067277050026
+[02:29:37] [Server thread/WARN]: Boat (vehicle of King_GamesYT) moved wrongly! 1.5428223671575267
+[02:30:51] [Server thread/INFO]: King_GamesYT was shot by ok_98
+[02:30:51] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-02.30.51.dat
+[02:35:25] [Server thread/INFO]: ok_98 was slain by Zombie
+[02:35:25] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.standard_29.05.2026-02.35.25.dat
