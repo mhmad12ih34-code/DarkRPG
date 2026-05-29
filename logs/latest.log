@@ -1095,3 +1095,4 @@ java.lang.NullPointerException: uuid
 [05:02:41] [Server thread/INFO]: Itsthenight_98 lost connection: Disconnected
 [05:02:41] [Server thread/INFO]: Itsthenight_98 left the game
 [05:02:41] [Server thread/INFO]: Updating all forceload tickets for d67fdf8a-c225-35eb-9452-657f281dae6a
+[05:11:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 2315MB, After: 2319MB

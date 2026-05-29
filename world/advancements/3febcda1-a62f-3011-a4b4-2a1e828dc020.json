@@ -14405,6 +14405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2026-05-29 05:07:54 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/mehrunes_razor": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
@@ -14603,6 +14609,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2026-05-29 05:07:54 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/master_sword": {
     "criteria": {
       "has_lord_soul": "2026-05-29 03:03:05 +0000"
@@ -14624,6 +14636,12 @@
   "compressedblocks:recipes/misc/shaped_crated_red_mushroom": {
     "criteria": {
       "has_item": "2026-05-29 04:10:46 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2026-05-29 05:07:54 +0000"
     },
     "done": true
   },
@@ -14840,6 +14858,12 @@
   "compressedblocks:recipes/misc/shaped_crated_beetroot": {
     "criteria": {
       "has_item": "2026-05-29 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2026-05-29 05:08:04 +0000"
     },
     "done": true
   },
