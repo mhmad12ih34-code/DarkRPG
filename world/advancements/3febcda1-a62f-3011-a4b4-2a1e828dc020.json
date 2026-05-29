@@ -14392,6 +14392,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shaped_c3_cobbled_deepslate": {
+    "criteria": {
+      "has_item": "2026-05-29 07:14:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2026-05-29 02:12:28 +0000",
@@ -14597,6 +14603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2026-05-29 07:05:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2026-05-29 02:16:02 +0000"
@@ -14747,6 +14759,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/misc/shaped_crated_map": {
+    "criteria": {
+      "has_item": "2026-05-29 07:20:08 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2026-05-29 01:51:08 +0000"
@@ -14780,6 +14798,12 @@
   "compressedblocks:compression/c1": {
     "criteria": {
       "get_c1": "2026-05-29 06:44:56 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:compression/c2": {
+    "criteria": {
+      "get_c2": "2026-05-29 07:14:46 +0000"
     },
     "done": true
   },
@@ -14858,6 +14882,12 @@
   "regions_unexplored:recipes/building_blocks/yellow_bioshroom_planks": {
     "criteria": {
       "has_logs": "2026-05-29 03:08:40 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shapeless_c2_cobbled_deepslate": {
+    "criteria": {
+      "has_item": "2026-05-29 07:14:46 +0000"
     },
     "done": true
   },
@@ -15053,6 +15083,12 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2026-05-29 07:05:03 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/leviathan_axe_left": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
@@ -15074,6 +15110,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2026-05-29 07:05:03 +0000"
     },
     "done": true
   },
