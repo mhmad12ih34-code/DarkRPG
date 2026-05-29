@@ -1,0 +1,1189 @@
+{
+  "refurbished_furniture:recipes/misc/constructing/green_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/root": {
+    "criteria": {
+      "always": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2026-05-29 03:28:16 +0000",
+      "infernal_holt": "2026-05-29 03:31:13 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
+    "criteria": {
+      "has_brimwood_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:info_story": {
+    "criteria": {
+      "darkrpg_info_extras": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_diamond_block": {
+    "criteria": {
+      "has_ingredients": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/season_calendar": {
+    "criteria": {
+      "has_clock": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
+    "criteria": {
+      "has_brimwood_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
+    "criteria": {
+      "has_logs": "2026-05-29 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/hot_dog": {
+    "criteria": {
+      "has_bread": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "basicstorage:recipes/decorations/crate": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "variantbarrels:recipes/decorations/ru_brimwood_barrel": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shields/shield_vanguard": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2026-05-29 03:28:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
+    "criteria": {
+      "has_log": "2026-05-29 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/workbench": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_hyphae": {
+    "criteria": {
+      "has_log": "2026-05-29 03:28:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2026-05-29 03:28:16 +0000",
+      "infernal_holt": "2026-05-29 03:31:13 +0000"
+    },
+    "done": false
+  },
+  "darkbosses:info_graveyard_bosses": {
+    "criteria": {
+      "info_graveyard_bosses": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "darkrpg_intro:info_intro": {
+    "criteria": {
+      "darkrpg_intros": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "darkbosses:info_souls_bosses": {
+    "criteria": {
+      "info_souls_bosses": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_harpoon_crossbow": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_emerald_block": {
+    "criteria": {
+      "has_ingredients": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_door": {
+    "criteria": {
+      "has_brimwood_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "darkbosses:info_spellblade_bosses": {
+    "criteria": {
+      "info_spellblade_bosses": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:root": {
+    "criteria": {
+      "darkrpg_info_extras": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_gold_block": {
+    "criteria": {
+      "has_ingredients": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:root": {
+    "criteria": {
+      "tick": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/post_box": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:info_extras": {
+    "criteria": {
+      "darkrpg_info_extras": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:plushables/root": {
+    "criteria": {
+      "root": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:info_casino": {
+    "criteria": {
+      "darkrpg_info_extras": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_trapdoor": {
+    "criteria": {
+      "has_brimwood_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_torch": {
+    "criteria": {
+      "has_item": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-05-29 03:28:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_bread": {
+    "criteria": {
+      "has_item": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-05-29 03:27:14 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "besmirchment:demonic_deed": {
+    "criteria": {
+      "has_item": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "darkspins:root": {
+    "criteria": {
+      "darkrpg_info_extras": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "things:root": {
+    "criteria": {
+      "tick": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/guards_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_planks": {
+    "criteria": {
+      "has_logs": "2026-05-29 03:28:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/tinted_greenhouse_glass": {
+    "criteria": {
+      "has_glass": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/spelunker_armor_helmet": {
+    "criteria": {
+      "has_torch": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/baker_hat": {
+    "criteria": {
+      "has_bread": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "darkbosses:info_vanilla_bosses": {
+    "criteria": {
+      "info_vanilla_bosses": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:info_crafting": {
+    "criteria": {
+      "darkrpg_info_crafting": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "yellow_bioshroom_stem": "2026-05-29 03:28:34 +0000",
+      "brimwood_log": "2026-05-29 03:31:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:clutter/root": {
+    "criteria": {
+      "requirement": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "petshop:recipes/decorations/crate": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-05-29 03:28:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/greenhouse_glass": {
+    "criteria": {
+      "has_glass": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "rewards:rewards": {
+    "criteria": {
+      "january": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_iron_block": {
+    "criteria": {
+      "has_ingredients": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_stairs": {
+    "criteria": {
+      "has_brimwood_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_ingots": {
+    "criteria": {
+      "has_ingredients": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2026-05-29 03:27:13 +0000",
+      "inv_changed-diamond": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "simplymore:root": {
+    "criteria": {
+      "requirement": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/season_detector": {
+    "criteria": {
+      "has_detector": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:grant_book_on_first_join": {
+    "criteria": {
+      "amethyst_imbuement:give_if_config": "2026-05-29 03:27:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "darkbosses:info_bomd_bosses": {
+    "criteria": {
+      "info_bomd_bosses": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/crop_season_tester": {
+    "criteria": {
+      "has_iron": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2026-05-29 03:28:34 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_apple": {
+    "criteria": {
+      "has_item": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2026-05-29 03:27:14 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/air_conditioning": {
+    "criteria": {
+      "has_furnace": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "loot_n_explore:root": {
+    "criteria": {
+      "always": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "darkbosses:root": {
+    "criteria": {
+      "darkbosses_info_extras": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-05-29 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_fence": {
+    "criteria": {
+      "has_brimwood_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_slab": {
+    "criteria": {
+      "has_brimwood_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_sign": {
+    "criteria": {
+      "has_brimwood_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_button": {
+    "criteria": {
+      "has_brimwood_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/sardonyx_fragment_2": {
+    "criteria": {
+      "hurt_by_fragment": "2026-05-29 03:29:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:ancient_specimens": {
+    "criteria": {
+      "yellow_bioshroom_stem": "2026-05-29 03:28:34 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2026-05-29 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_stool": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:31:18 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

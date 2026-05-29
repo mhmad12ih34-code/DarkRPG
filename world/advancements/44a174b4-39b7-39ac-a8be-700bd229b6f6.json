@@ -2502,6 +2502,7 @@
       "mountains": "2026-05-28 08:58:51 +0000",
       "boreal_forest": "2026-05-27 00:29:54 +0000",
       "blackstone_basin": "2026-05-29 02:13:03 +0000",
+      "infernal_holt": "2026-05-29 03:13:03 +0000",
       "temperate_grove": "2026-05-26 23:53:57 +0000",
       "pine_slopes": "2026-05-27 23:32:14 +0000",
       "golden_boreal_taiga": "2026-05-28 07:23:18 +0000",
@@ -3222,6 +3223,7 @@
       "minecraft:skeleton": "2026-05-26 22:54:28 +0000",
       "minecraft:hoglin": "2026-05-27 22:31:32 +0000",
       "minecraft:spider": "2026-05-26 23:46:26 +0000",
+      "minecraft:piglin_brute": "2026-05-29 03:20:53 +0000",
       "minecraft:creeper": "2026-05-26 23:26:00 +0000",
       "minecraft:slime": "2026-05-27 22:44:22 +0000",
       "minecraft:phantom": "2026-05-27 22:43:26 +0000",
@@ -14455,7 +14457,8 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2026-05-29 02:12:41 +0000",
-      "blackstone_basin": "2026-05-29 02:13:03 +0000"
+      "blackstone_basin": "2026-05-29 02:13:03 +0000",
+      "infernal_holt": "2026-05-29 03:13:03 +0000"
     },
     "done": false
   },
@@ -14563,6 +14566,7 @@
   },
   "batsgalore:candy_collection": {
     "criteria": {
+      "zombie_flesh_lollipop": "2026-05-29 03:30:53 +0000",
       "wither_skull_candy": "2026-05-29 02:14:14 +0000"
     },
     "done": false
@@ -14573,9 +14577,17 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2026-05-29 02:50:34 +0000"
+      "minecraft:crimson_forest": "2026-05-29 02:50:34 +0000",
+      "minecraft:nether_wastes": "2026-05-29 03:27:34 +0000",
+      "minecraft:warped_forest": "2026-05-29 03:28:09 +0000"
     },
     "done": false
   },
@@ -14585,9 +14597,57 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_lantern": {
+    "criteria": {
+      "has_item": "2026-05-29 03:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "red_mushroom": "2026-05-29 03:07:53 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/nether_brick_smoker": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-29 03:16:15 +0000"
     },
     "done": true
   },
@@ -14603,9 +14663,33 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shaped_c0_red_nether_bricks": {
+    "criteria": {
+      "has_item": "2026-05-29 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
   "darkbosses:decaying_king_boss": {
     "criteria": {
       "decaying_king_boss": "2026-05-29 03:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-29 03:16:15 +0000"
     },
     "done": true
   },
@@ -14615,9 +14699,27 @@
     },
     "done": true
   },
+  "darkrpg:nether_bricks": {
+    "criteria": {
+      "darkrpg_nether_bricks": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2026-05-29 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-29 03:16:15 +0000"
     },
     "done": true
   },
@@ -14630,6 +14732,12 @@
   "adventurez:recipes/chiseled_polished_blackstone_holder_recipe": {
     "criteria": {
       "got_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 03:07:22 +0000"
     },
     "done": true
   },
@@ -14651,6 +14759,30 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2026-05-29 03:20:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 03:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
@@ -14663,9 +14795,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2026-05-29 02:46:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 03:16:07 +0000"
     },
     "done": true
   },
@@ -14675,9 +14831,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/blackstone_witch_altar": {
     "criteria": {
       "has_item": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 03:07:22 +0000"
     },
     "done": true
   },
@@ -14711,9 +14879,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 03:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2026-05-29 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
     },
     "done": true
   },
@@ -14729,9 +14915,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 03:16:07 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_blackstone": {
     "criteria": {
       "has_item": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2026-05-29 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2026-05-29 03:31:06 +0000"
     },
     "done": true
   },
@@ -14759,15 +14993,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/nether_brick_witch_altar": {
+    "criteria": {
+      "has_item": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 03:16:07 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/withered_chest": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
   "mythicmetals:stormyx": {
     "criteria": {
       "nether_diamond": "2026-05-29 02:47:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
     },
     "done": true
   },
@@ -14789,9 +15053,39 @@
     },
     "done": true
   },
+  "darkrpg:red_nether_bricks": {
+    "criteria": {
+      "darkrpg_red_nether_bricks": "2026-05-29 03:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
     },
     "done": true
   },
@@ -14801,15 +15095,45 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/short_iron_door": {
+    "criteria": {
+      "has_items": "2026-05-29 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_nether_bricks": {
+    "criteria": {
+      "has_item": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:all_weapons": {
     "criteria": {
       "guts_sword": "2026-05-29 03:01:58 +0000"
     },
     "done": false
   },
+  "dramaticdoors:recipes/redstone/tall_iron_door": {
+    "criteria": {
+      "has_items": "2026-05-29 03:16:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2026-05-29 03:13:12 +0000"
     },
     "done": true
   },
@@ -14831,9 +15155,45 @@
     },
     "done": true
   },
+  "amethyst_imbuement:scroll": {
+    "criteria": {
+      "got_imbuing_table": "2026-05-29 03:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 03:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-05-29 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-05-29 03:20:20 +0000"
     },
     "done": true
   },

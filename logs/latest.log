@@ -789,3 +789,106 @@ java.lang.NullPointerException: uuid
 [03:07:14] [Server thread/INFO]: King_GamesYT was slain by dcx501
 [03:07:14] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-03.07.14.dat
 [03:10:13] [Server thread/INFO]: <dcx501> AZURITE
+[03:11:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 2157MB, After: 2169MB
+[03:11:11] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[03:11:11] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-03.11.11.dat
+[03:11:20] [Worker-Main-153/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/68169, l='ServerLevel[world]', x=379.00, y=31.00, z=-345.00] as it would cause deadlock
+[03:11:20] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/68174, l='ServerLevel[world]', x=379.00, y=31.00, z=-345.00] as it would cause deadlock
+[03:11:26] [Worker-Main-152/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/68260, l='ServerLevel[world]', x=462.00, y=31.00, z=-373.00] as it would cause deadlock
+[03:11:26] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/68263, l='ServerLevel[world]', x=462.00, y=31.00, z=-373.00] as it would cause deadlock
+[03:11:41] [Worker-Main-152/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/68408, l='ServerLevel[world]', x=355.00, y=31.00, z=-452.00] as it would cause deadlock
+[03:11:41] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/68410, l='ServerLevel[world]', x=355.00, y=31.00, z=-452.00] as it would cause deadlock
+[03:12:23] [Server thread/INFO]: ok_98 withered away whilst fighting Wither Skeleton
+[03:12:23] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-03.12.23.dat
+[03:13:12] [Server thread/INFO]: dcx501 has made the advancement [Downer]
+[03:13:40] [Server thread/INFO]: ok_98 has made the advancement [Penteconter]
+[03:14:44] [Server thread/INFO]: ok_98 has completed the challenge [Metal Sneakers (Quest)]
+[03:16:07] [Server thread/INFO]: dcx501 has completed the challenge [Brick On Brick (Quest)]
+[03:16:12] [Server thread/INFO]: Villager class_1646['Cartographer'/69426, l='ServerLevel[world]', x=289.84, y=33.00, z=-0.48] died, message: 'Cartographer burned to death'
+[03:16:15] [Server thread/INFO]: dcx501 has completed the challenge [Red Brick (Quest)]
+[03:17:50] [Worker-Main-151/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/70378, l='ServerLevel[world]', x=410.00, y=31.00, z=199.00] as it would cause deadlock
+[03:17:50] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/70380, l='ServerLevel[world]', x=410.00, y=31.00, z=199.00] as it would cause deadlock
+[03:17:55] [Server thread/INFO]: ok_98 has completed the challenge [Charcoal Toothpaste (Quest)]
+[03:19:05] [Server thread/INFO]: ok_98 was slain by Zombie
+[03:19:05] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-03.19.05.dat
+[03:20:20] [Server thread/INFO]: dcx501 has made the advancement [Those Were the Days]
+[03:20:25] [Server thread/INFO]: dcx501 has made the advancement [War Pigs]
+[03:20:32] [Server thread/INFO]: ok_98 has made the advancement [Iron Tier Upgrade]
+[03:20:36] [Server thread/INFO]: ok_98 has made the advancement [Amateur Archaeologist]
+[03:25:02] [Worker-Main-153/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/72254, l='ServerLevel[world]', x=226.00, y=31.00, z=346.00] as it would cause deadlock
+[03:25:02] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/72257, l='ServerLevel[world]', x=226.00, y=31.00, z=346.00] as it would cause deadlock
+[03:25:03] [Worker-Main-153/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/72281, l='ServerLevel[world]', x=175.00, y=31.00, z=363.00] as it would cause deadlock
+[03:25:03] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/72284, l='ServerLevel[world]', x=175.00, y=31.00, z=363.00] as it would cause deadlock
+[03:26:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1610MB, After: 1621MB
+[03:27:12] [Server thread/INFO]: [Handshake] Sending channel query
+[03:27:12] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for Red_KingTY
+java.lang.NullPointerException: uuid
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
+	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar:?]
+	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:43) ~[vanilla-permissions-0.2.9+1.20.1.jar:?]
+	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.minecraft.class_3248.redirect$ddp000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[03:27:12] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for Red_KingTY
+java.lang.NullPointerException: uuid
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
+	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar:?]
+	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:43) ~[vanilla-permissions-0.2.9+1.20.1.jar:?]
+	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.minecraft.class_3248.redirect$ddp000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[03:27:12] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for Red_KingTY
+java.lang.NullPointerException: uuid
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
+	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar:?]
+	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:43) ~[vanilla-permissions-0.2.9+1.20.1.jar:?]
+	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.minecraft.class_3248.redirect$ddp000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[03:27:12] [Server thread/INFO]: Red_KingTY[/127.0.0.1:41230] logged in with entity id 72877 at (-25.5, 109.0, -57.5)
+[03:27:12] [Server thread/INFO]: Sending server config values to client
+[03:27:13] [Server thread/INFO]: Loading config from file...
+[03:27:13] [Server thread/INFO]: Red_KingTY joined the game
+[03:27:13] [Server thread/INFO]: Updating all forceload tickets for 15e6c37e-1bb7-3fc3-bb73-542698014a7b
+[03:27:14] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[03:27:35] [Server thread/WARN]: dcx501 moved wrongly!
+[03:27:41] [Server thread/INFO]: Player literal{Red_KingTY} chose Origin: aspects:pyro_layers/pyro, for layer: aspects:elements
+[03:27:58] [Server thread/INFO]: Player literal{Red_KingTY} chose Origin: medievalorigins:incubus, for layer: origins:origin
+[03:28:01] [Server thread/INFO]: Player literal{Red_KingTY} chose Origin: aspects:pyro_layers/magmus, for layer: aspects:origins
+[03:28:15] [Server thread/INFO]: Red_KingTY has made the advancement [We Need to Go Deeper]
+[03:28:15] [Server thread/INFO]: Player empty chose Origin: origins-classes:warrior, for layer: origins-classes:class
+[03:29:10] [Server thread/INFO]: dcx501 has made the advancement [Keep on Scrollin']
+[03:30:18] [Server thread/INFO]: ok_98 has completed the challenge [Centennial]
+[03:31:21] [Server thread/INFO]: Red_KingTY has completed the challenge [Real Minecraft Starts Now (Quest)]
+[03:31:37] [Server thread/INFO]: Red_KingTY has completed the challenge [Chop chop chop (Quest)]
+[03:33:05] [Server thread/INFO]: ok_98 was slain by Zombie
+[03:33:05] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-03.33.05.dat
+[03:34:39] [Server thread/INFO]: Red_KingTY was slain by Invading Forlorn
+[03:34:39] [Server thread/INFO]: Red_KingTY has completed the challenge [This is Bonfires]

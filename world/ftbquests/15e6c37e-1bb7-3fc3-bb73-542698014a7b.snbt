@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "15e6c37e1bb73fc3bb73542698014a7b"
+	name: "Red_KingTY#15e6c37e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -9266,9 +9266,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:iron_boots": {
+    "criteria": {
+      "darkrpg_iron_boots": "2026-05-29 03:14:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2026-05-29 03:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-05-29 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:iron_upgrade": {
+    "criteria": {
+      "iron_upgrade": "2026-05-29 03:20:32 +0000"
     },
     "done": true
   },
@@ -9278,9 +9314,237 @@
     },
     "done": true
   },
+  "clutter:recipes/decorations/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2026-05-29 03:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
   "batsgalore:bat_death": {
     "criteria": {
       "wither_skeleton_bat": "2026-05-29 03:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_boots": {
+    "criteria": {
+      "has_iron_boots": "2026-05-29 03:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2026-05-29 03:16:14 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/spruce_bench": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/chiseled_polished_blackstone_holder_recipe": {
+    "criteria": {
+      "got_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2026-05-29 03:16:14 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_gold_block": {
+    "criteria": {
+      "has_item": "2026-05-29 03:16:14 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_spruce_planks": {
+    "criteria": {
+      "has_item": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_suns_grace": {
+    "criteria": {
+      "has_gold_block": "2026-05-29 03:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2026-05-29 03:16:14 +0000"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:spells/weightlessness": {
+    "criteria": {
+      "got_spell_book": "2026-05-29 03:16:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2026-05-29 03:20:38 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_encrusted_anchor": {
+    "criteria": {
+      "has_gold_block": "2026-05-29 03:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
     },
     "done": true
   },
@@ -9290,9 +9554,237 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/blackstone_witch_altar": {
+    "criteria": {
+      "has_item": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2026-05-29 03:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2026-05-29 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_boots": {
+    "criteria": {
+      "has_iron_boots": "2026-05-29 03:14:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:charcoal": {
+    "criteria": {
+      "darkrpg_charcoal": "2026-05-29 03:17:55 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_coal_block": {
+    "criteria": {
+      "has_item": "2026-05-29 03:23:59 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_blackstone": {
+    "criteria": {
+      "has_item": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2026-05-29 03:16:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/emerald_smithing": {
     "criteria": {
       "has_emerald": "2026-05-29 02:58:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2026-05-29 03:27:39 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:midas_gold": {
+    "criteria": {
+      "there_is_gold_here": "2026-05-29 03:06:58 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_charcoal": {
+    "criteria": {
+      "has_item": "2026-05-29 03:17:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2026-05-29 03:20:36 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2026-05-29 03:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2026-05-29 03:16:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/spruce_wall_cupboard": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/spruce_wood_shield": {
+    "criteria": {
+      "has_plank": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_spruce_bench": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-05-29 03:20:38 +0000"
     },
     "done": true
   },
@@ -9301,6 +9793,126 @@
       "wither_skull_candy": "2026-05-29 03:02:40 +0000"
     },
     "done": false
+  },
+  "amethyst_imbuement:spells/body_swap": {
+    "criteria": {
+      "got_spell_book": "2026-05-29 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_boots": {
+    "criteria": {
+      "has_iron_boots": "2026-05-29 03:14:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_name_tag": {
+    "criteria": {
+      "has_item": "2026-05-29 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/spruce_short_bench": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2026-05-29 03:16:14 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+    "criteria": {
+      "has_core_specification_item": "2026-05-29 03:16:14 +0000"
+    },
+    "done": true
+  },
+  "snowyspirit:recipes/decorations/sled_spruce": {
+    "criteria": {
+      "has_item": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
