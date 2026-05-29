@@ -14414,6 +14414,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shapeless_c0_cobbled_deepslate": {
+    "criteria": {
+      "has_item": "2026-05-29 02:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2026-05-29 02:12:42 +0000"
@@ -14444,9 +14450,21 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shaped_c1_cobbled_deepslate": {
+    "criteria": {
+      "has_item": "2026-05-29 02:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2026-05-29 02:12:23 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:compression/c0": {
+    "criteria": {
+      "get_c0": "2026-05-29 02:52:09 +0000"
     },
     "done": true
   },

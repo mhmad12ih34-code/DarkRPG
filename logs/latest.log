@@ -761,3 +761,14 @@ java.lang.NullPointerException: uuid
 [02:51:16] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-02.51.16.dat
 [02:51:17] [Server thread/INFO]: [King_GamesYT: Killed King_GamesYT]
 [02:52:09] [Server thread/INFO]: King_GamesYT has made the advancement [The First Step]
+[02:56:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1568MB, After: 1578MB
+[02:58:07] [Server thread/INFO]: ok_98 was slain by Zombie
+[02:58:14] [Server thread/WARN]: dcx501 moved wrongly!
+[02:58:42] [Server thread/INFO]: ok_98 was slain by Zombie
+[02:58:48] [Server thread/INFO]: ok_98 has made the advancement [Custom Backpacks]
+[03:00:43] [Server thread/INFO]: ok_98 tried to swim in lava
+[03:00:43] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-03.00.43.dat
+[03:01:01] [Server thread/INFO]: dcx501 has made the advancement [Isn't It Iron Pick]
+[03:01:11] [Server thread/INFO]: ok_98 tried to swim in lava
+[03:01:11] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-03.01.11.dat
+[03:01:58] [Server thread/INFO]: dcx501 has reached the goal [My Brother]

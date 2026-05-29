@@ -9266,5 +9266,17 @@
     },
     "done": true
   },
+  "travelersbackpack:custom_backpack": {
+    "criteria": {
+      "custom_backpack": "2026-05-29 02:58:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2026-05-29 02:58:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
