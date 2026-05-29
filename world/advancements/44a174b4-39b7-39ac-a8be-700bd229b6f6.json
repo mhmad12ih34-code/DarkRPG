@@ -13355,6 +13355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2026-05-29 01:29:41 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_fangs_of_frost": {
     "criteria": {
       "has_snow_block": "2026-05-28 23:35:20 +0000"
@@ -13394,6 +13400,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
     "criteria": {
       "has_yellow_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2026-05-29 01:29:38 +0000"
     },
     "done": true
   },
@@ -13439,9 +13451,21 @@
     },
     "done": true
   },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2026-05-29 01:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2026-05-29 01:29:38 +0000"
     },
     "done": true
   },
@@ -13502,6 +13526,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2026-05-28 23:44:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2026-05-29 01:29:41 +0000"
     },
     "done": true
   },
@@ -13586,6 +13616,12 @@
   "handcrafted:recipes/misc/birch_pillar_trim": {
     "criteria": {
       "has_birch_pillar_trim": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2026-05-29 01:29:38 +0000"
     },
     "done": true
   },
@@ -14129,6 +14165,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-05-29 01:21:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2026-05-28 23:37:25 +0000"
@@ -14138,6 +14180,12 @@
   "compressedblocks:recipes/misc/shaped_crated_snowball": {
     "criteria": {
       "has_item": "2026-05-28 23:35:17 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_iron_nugget": "2026-05-29 01:29:41 +0000"
     },
     "done": true
   },
