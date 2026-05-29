@@ -14145,15 +14145,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+  "simplymore:vipers_call": {
     "criteria": {
-      "has_maple_planks": "2026-05-28 23:47:11 +0000"
+      "requirement": "2026-05-28 23:27:52 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/maple_sign": {
+  "travelersbackpack:functionality_upgrade": {
     "criteria": {
-      "has_maple_planks": "2026-05-28 23:47:11 +0000"
+      "functionality_upgrade": "2026-05-28 23:41:12 +0000"
     },
     "done": true
   },
@@ -14169,15 +14169,57 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/maple_fence": {
+  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+    "criteria": {
+      "has_item": "2026-05-28 23:44:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2026-05-28 23:44:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2026-05-28 23:44:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2026-05-28 23:44:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2026-05-28 23:44:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2026-05-28 23:44:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_maple_planks": "2026-05-28 23:47:11 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+  "regions_unexplored:recipes/decorations/maple_sign": {
     "criteria": {
-      "has_item": "2026-05-28 23:44:53 +0000"
+      "has_maple_planks": "2026-05-28 23:47:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2026-05-28 23:47:11 +0000"
     },
     "done": true
   },
@@ -14199,45 +14241,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
-    "criteria": {
-      "has_zinc_ingots": "2026-05-28 23:44:53 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/maple_trapdoor": {
     "criteria": {
       "has_maple_planks": "2026-05-28 23:47:11 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/package_filter": {
-    "criteria": {
-      "has_item": "2026-05-28 23:44:53 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_maple_planks": "2026-05-28 23:47:11 +0000"
-    },
-    "done": true
-  },
-  "simplymore:vipers_call": {
-    "criteria": {
-      "requirement": "2026-05-28 23:27:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
-    "criteria": {
-      "has_item": "2026-05-28 23:44:53 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:functionality_upgrade": {
-    "criteria": {
-      "functionality_upgrade": "2026-05-28 23:41:12 +0000"
     },
     "done": true
   },
@@ -14256,18 +14268,6 @@
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2026-05-28 23:47:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
-    "criteria": {
-      "has_item": "2026-05-28 23:44:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
-    "criteria": {
-      "has_zinc_ingots": "2026-05-28 23:44:53 +0000"
     },
     "done": true
   },
