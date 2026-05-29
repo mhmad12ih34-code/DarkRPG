@@ -3227,6 +3227,7 @@
       "minecraft:zombified_piglin": "2026-05-29 02:15:48 +0000",
       "minecraft:wither_skeleton": "2026-05-27 22:25:54 +0000",
       "minecraft:husk": "2026-05-27 04:02:40 +0000",
+      "minecraft:piglin": "2026-05-29 02:43:13 +0000",
       "minecraft:enderman": "2026-05-27 00:23:40 +0000",
       "minecraft:zombie": "2026-05-26 22:48:11 +0000",
       "minecraft:zombie_villager": "2026-05-26 23:25:31 +0000"
@@ -14571,6 +14572,114 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-05-29 02:50:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2026-05-29 02:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/chiseled_polished_blackstone_holder_recipe": {
+    "criteria": {
+      "got_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:palladium": {
+    "criteria": {
+      "feel_the_heat": "2026-05-29 02:50:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/medium_ingot_from_blasting_raw_medium": {
+    "criteria": {
+      "has_raw_medium": "2026-05-29 02:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2026-05-29 02:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/blackstone_witch_altar": {
+    "criteria": {
+      "has_item": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_medium_block": {
+    "criteria": {
+      "has_raw_medium": "2026-05-29 02:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_oxeye_daisy": {
     "criteria": {
       "has_item": "2026-05-29 02:22:22 +0000"
@@ -14586,6 +14695,102 @@
   "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2026-05-29 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_blackstone": {
+    "criteria": {
+      "has_item": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:midas_gold": {
+    "criteria": {
+      "there_is_gold_here": "2026-05-29 02:45:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:stormyx": {
+    "criteria": {
+      "nether_diamond": "2026-05-29 02:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-05-29 02:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/medium_ingot_from_smelting_raw_medium": {
+    "criteria": {
+      "has_raw_medium": "2026-05-29 02:44:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/ruby_ingot": {
+    "criteria": {
+      "has_necessary_ingredients": "2026-05-29 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-05-29 02:44:57 +0000"
     },
     "done": true
   },

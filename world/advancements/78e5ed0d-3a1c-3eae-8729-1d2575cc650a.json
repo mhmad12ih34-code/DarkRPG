@@ -484,7 +484,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2026-05-27 00:12:23 +0000"
+      "bread": "2026-05-27 00:12:23 +0000",
+      "golden_apple": "2026-05-29 02:42:23 +0000"
     },
     "done": false
   },
@@ -2518,10 +2519,13 @@
       "redstone_caves": "2026-05-27 23:11:35 +0000",
       "poppy_fields": "2026-05-27 00:23:14 +0000",
       "rocky_meadow": "2026-05-27 22:12:31 +0000",
+      "mycotoxic_undergrowth": "2026-05-29 02:40:31 +0000",
       "highland_fields": "2026-05-27 23:12:45 +0000",
       "maple_forest": "2026-05-27 00:23:34 +0000",
       "magnolia_highlands": "2026-05-27 00:26:40 +0000",
       "boreal_forest": "2026-05-27 00:41:18 +0000",
+      "blackstone_basin": "2026-05-29 02:40:36 +0000",
+      "infernal_holt": "2026-05-29 02:41:22 +0000",
       "temperate_grove": "2026-05-27 08:41:37 +0000",
       "cold_river": "2026-05-27 07:45:04 +0000",
       "pine_slopes": "2026-05-27 08:41:44 +0000",
@@ -8976,12 +8980,6 @@
     },
     "done": true
   },
-  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
-    "criteria": {
-      "has_item": "2026-05-29 02:22:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2026-05-29 02:13:40 +0000"
@@ -8994,27 +8992,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/lapis": {
-    "criteria": {
-      "has_lapis_lazuli": "2026-05-29 02:13:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
     "criteria": {
       "has_granite": "2026-05-29 02:13:40 +0000"
-    },
-    "done": true
-  },
-  "compressedblocks:recipes/misc/shaped_crated_azure_bluet": {
-    "criteria": {
-      "has_item": "2026-05-29 02:23:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2026-05-29 02:23:13 +0000"
     },
     "done": true
   },
@@ -9033,12 +9013,6 @@
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2026-05-29 02:13:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2026-05-29 02:13:48 +0000"
     },
     "done": true
   },
@@ -9108,12 +9082,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2026-05-29 02:23:46 +0000"
-    },
-    "done": true
-  },
   "compressedblocks:recipes/building_blocks/shaped_c0_granite": {
     "criteria": {
       "has_item": "2026-05-29 02:13:40 +0000"
@@ -9129,18 +9097,6 @@
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2026-05-29 02:13:40 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/red_coffin": {
-    "criteria": {
-      "has_item": "2026-05-29 02:17:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2026-05-29 02:13:48 +0000"
     },
     "done": true
   },
@@ -9180,24 +9136,6 @@
     },
     "done": true
   },
-  "bewitchment:recipes/food/grilled_garlic": {
-    "criteria": {
-      "has_item": "2026-05-29 02:22:11 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
-    "criteria": {
-      "has_item": "2026-05-29 02:22:11 +0000"
-    },
-    "done": true
-  },
-  "compressedblocks:recipes/building_blocks/shaped_c0_netherrack": {
-    "criteria": {
-      "has_item": "2026-05-29 02:23:46 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2026-05-29 02:13:40 +0000"
@@ -9210,12 +9148,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2026-05-29 02:23:13 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2026-05-29 02:13:40 +0000"
@@ -9225,6 +9157,112 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2026-05-29 02:13:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-05-29 02:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-05-29 02:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-05-29 02:13:48 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/red_coffin": {
+    "criteria": {
+      "has_item": "2026-05-29 02:17:41 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2026-05-29 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2026-05-29 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2026-05-29 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_azure_bluet": {
+    "criteria": {
+      "has_item": "2026-05-29 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-05-29 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-05-29 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-05-29 02:23:46 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_netherrack": {
+    "criteria": {
+      "has_item": "2026-05-29 02:23:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2026-05-29 02:40:31 +0000",
+      "blackstone_basin": "2026-05-29 02:40:36 +0000",
+      "infernal_holt": "2026-05-29 02:41:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-05-29 02:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-05-29 02:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-05-29 02:41:27 +0000",
+      "minecraft:nether_wastes": "2026-05-29 02:43:38 +0000",
+      "minecraft:soul_sand_valley": "2026-05-29 02:41:25 +0000"
+    },
+    "done": false
+  },
+  "crystals_overhauled:is_this_lapis_lazuli": {
+    "criteria": {
+      "is_this_lapis_lazuli": "2026-05-29 02:44:08 +0000"
     },
     "done": true
   },

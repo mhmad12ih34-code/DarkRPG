@@ -665,3 +665,99 @@ java.lang.NullPointerException: uuid
 [02:30:51] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-02.30.51.dat
 [02:35:25] [Server thread/INFO]: ok_98 was slain by Zombie
 [02:35:25] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.standard_29.05.2026-02.35.25.dat
+[02:37:32] [Server thread/INFO]: King_GamesYT has made the advancement [Bonfire Lit]
+[02:38:43] [Server thread/INFO]: King_GamesYT was slain by ok_98
+[02:38:43] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-02.38.43.dat
+[02:40:31] [Server thread/INFO]: ok_98 has made the advancement [We Need to Go Deeper]
+[02:41:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1820MB, After: 1842MB
+[02:43:46] [Worker-Main-153/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/49516, l='ServerLevel[world]', x=-219.00, y=31.00, z=322.00] as it would cause deadlock
+[02:43:46] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/49518, l='ServerLevel[world]', x=-219.00, y=31.00, z=322.00] as it would cause deadlock
+[02:44:02] [Worker-Main-152/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/50021, l='ServerLevel[world]', x=-59.00, y=31.00, z=370.00] as it would cause deadlock
+[02:44:02] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/50024, l='ServerLevel[world]', x=-59.00, y=31.00, z=370.00] as it would cause deadlock
+[02:44:41] [Worker-Main-152/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/50513, l='ServerLevel[world]', x=-168.00, y=31.00, z=453.00] as it would cause deadlock
+[02:44:41] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/50517, l='ServerLevel[world]', x=-168.00, y=31.00, z=453.00] as it would cause deadlock
+[02:45:04] [Server thread/WARN]: dcx501 moved wrongly!
+[02:45:13] [Server thread/WARN]: dcx501 moved wrongly!
+[02:45:15] [Server thread/WARN]: dcx501 moved wrongly!
+[02:45:17] [Server thread/WARN]: dcx501 moved wrongly!
+[02:45:18] [Server thread/WARN]: dcx501 moved wrongly!
+[02:45:31] [Worker-Main-152/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/51148, l='ServerLevel[world]', x=157.00, y=31.00, z=229.00] as it would cause deadlock
+[02:45:31] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/51150, l='ServerLevel[world]', x=157.00, y=31.00, z=229.00] as it would cause deadlock
+[02:45:58] [Server thread/INFO]: dcx501 has made the advancement [GOLD!!!]
+[02:46:11] [Server thread/INFO]: dcx501 has made the advancement [Hidden in the Depths]
+[02:46:36] [Server thread/INFO]: [Handshake] Sending channel query
+[02:46:36] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for ok_98
+java.lang.NullPointerException: uuid
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
+	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar:?]
+	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:43) ~[vanilla-permissions-0.2.9+1.20.1.jar:?]
+	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.minecraft.class_3248.redirect$ddp000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[02:46:36] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for ok_98
+java.lang.NullPointerException: uuid
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
+	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar:?]
+	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:43) ~[vanilla-permissions-0.2.9+1.20.1.jar:?]
+	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.minecraft.class_3248.redirect$ddp000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[02:46:36] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for ok_98
+java.lang.NullPointerException: uuid
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
+	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar:?]
+	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:43) ~[vanilla-permissions-0.2.9+1.20.1.jar:?]
+	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.minecraft.class_3248.redirect$ddp000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[02:46:36] [Server thread/INFO]: ok_98 lost connection: You logged in from another location
+[02:46:36] [Server thread/INFO]: ok_98 left the game
+[02:46:36] [Server thread/INFO]: Updating all forceload tickets for 78e5ed0d-3a1c-3eae-8729-1d2575cc650a
+[02:46:36] [Server thread/INFO]: ok_98[/127.0.0.1:43790] logged in with entity id 53190 at (11.130967716587342, 22.5, 230.36678219511577)
+[02:46:36] [Server thread/INFO]: Sending server config values to client
+[02:46:36] [Server thread/INFO]: Loading config from file...
+[02:46:37] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[02:46:37] [Server thread/INFO]: ok_98 joined the game
+[02:46:37] [Server thread/INFO]: Updating all forceload tickets for 78e5ed0d-3a1c-3eae-8729-1d2575cc650a
+[02:47:07] [Server thread/INFO]: dcx501 has made the advancement [Magical Metals]
+[02:47:58] [Server thread/INFO]: ok_98 was blown up by Nether Gauntlet
+[02:47:58] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.standard_29.05.2026-02.47.58.dat
+[02:48:28] [Server thread/INFO]: ok_98 tried to swim in lava
+[02:48:28] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.standard_29.05.2026-02.48.28.dat
+[02:49:58] [Server thread/INFO]: ok_98 was obliterated by The Decaying King
+[02:49:58] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.standard_29.05.2026-02.49.58.dat
+[02:50:30] [Server thread/WARN]: dcx501 moved wrongly!
+[02:50:45] [Server thread/INFO]: dcx501 has reached the goal [Hottest Baked Beans]
+[02:51:09] [Server thread/INFO]: ok_98 tried to swim in lava
+[02:51:09] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.standard_29.05.2026-02.51.09.dat
+[02:51:16] [Server thread/INFO]: King_GamesYT was killed
+[02:51:16] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-02.51.16.dat
+[02:51:17] [Server thread/INFO]: [King_GamesYT: Killed King_GamesYT]
+[02:52:09] [Server thread/INFO]: King_GamesYT has made the advancement [The First Step]
