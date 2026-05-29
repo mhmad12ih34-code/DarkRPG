@@ -14903,6 +14903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2026-05-29 05:04:14 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/moonveil": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"

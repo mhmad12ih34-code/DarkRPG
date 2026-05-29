@@ -3221,7 +3221,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2026-05-29 04:41:19 +0000",
       "minecraft:skeleton": "2026-05-26 22:54:28 +0000",
+      "minecraft:ghast": "2026-05-29 04:34:51 +0000",
       "minecraft:hoglin": "2026-05-27 22:31:32 +0000",
       "minecraft:magma_cube": "2026-05-29 03:34:07 +0000",
       "minecraft:spider": "2026-05-26 23:46:26 +0000",
@@ -14593,14 +14595,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2026-05-29 04:41:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2026-05-29 02:50:34 +0000",
       "minecraft:nether_wastes": "2026-05-29 03:27:34 +0000",
+      "minecraft:soul_sand_valley": "2026-05-29 04:31:55 +0000",
       "minecraft:basalt_deltas": "2026-05-29 03:32:33 +0000",
       "minecraft:warped_forest": "2026-05-29 03:28:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
@@ -14620,6 +14629,12 @@
     },
     "done": true
   },
+  "vanillabackport:recipes/transportation/white_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/translucent_glaive": {
     "criteria": {
       "has_item": "2026-05-29 04:13:37 +0000"
@@ -14635,6 +14650,12 @@
   "compressedblocks:recipes/misc/shaped_crated_lantern": {
     "criteria": {
       "has_item": "2026-05-29 03:16:05 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/red_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
     },
     "done": true
   },
@@ -14716,6 +14737,18 @@
     },
     "done": true
   },
+  "darkrpg:ghast": {
+    "criteria": {
+      "darkrpg_ghast": "2026-05-29 04:34:51 +0000"
+    },
+    "done": false
+  },
+  "vanillabackport:recipes/transportation/yellow_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2026-05-29 03:01:01 +0000"
@@ -14755,6 +14788,12 @@
   "mcdw:recipes/crossbows/crossbow_soul_hunter": {
     "criteria": {
       "has_soul_sand": "2026-05-29 04:11:22 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/green_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
     },
     "done": true
   },
@@ -14854,6 +14893,12 @@
     },
     "done": true
   },
+  "vanillabackport:recipes/transportation/purple_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2026-05-29 03:07:22 +0000"
@@ -14896,6 +14941,12 @@
     },
     "done": true
   },
+  "vanillabackport:recipes/transportation/black_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2026-05-29 03:20:25 +0000"
@@ -14908,9 +14959,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2026-05-29 04:41:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/lime_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
     },
     "done": true
   },
@@ -14929,6 +14998,12 @@
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2026-05-29 04:11:22 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/brown_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
     },
     "done": true
   },
@@ -15034,9 +15109,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2026-05-29 04:41:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2026-05-29 03:41:33 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/light_gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
     },
     "done": true
   },
@@ -15055,6 +15142,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2026-05-29 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/pink_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/magenta_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
     },
     "done": true
   },
@@ -15088,6 +15187,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-05-29 04:41:19 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_magma_cream": {
     "criteria": {
       "has_item": "2026-05-29 03:41:33 +0000"
@@ -15112,6 +15217,18 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_ember": {
+    "criteria": {
+      "has_core_specification_item": "2026-05-29 04:41:19 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_blaze_powder": {
+    "criteria": {
+      "has_item": "2026-05-29 04:41:19 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/infused_blackstone": {
     "criteria": {
       "has_item": "2026-05-29 04:11:47 +0000"
@@ -15127,6 +15244,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2026-05-29 02:22:22 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/orange_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
     },
     "done": true
   },
@@ -15166,6 +15289,12 @@
     },
     "done": true
   },
+  "vanillabackport:recipes/transportation/blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2026-05-29 03:07:22 +0000"
@@ -15196,6 +15325,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/misc/shaped_crated_blaze_rod": {
+    "criteria": {
+      "has_item": "2026-05-29 04:41:19 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/soulfire_stain": {
     "criteria": {
       "has_item": "2026-05-29 04:11:47 +0000"
@@ -15223,6 +15358,12 @@
   "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/light_blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
     },
     "done": true
   },
@@ -15286,6 +15427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2026-05-29 04:41:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2026-05-29 03:16:07 +0000"
@@ -15319,6 +15466,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2026-05-29 04:41:19 +0000"
     },
     "done": true
   },
@@ -15364,11 +15517,23 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2026-05-29 04:41:19 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_robes_boots": {
     "criteria": {
       "has_item": "2026-05-29 04:13:37 +0000"
     },
     "done": true
+  },
+  "darkrpg:even_more_ghast": {
+    "criteria": {
+      "darkrpg_even_more_ghast": "2026-05-29 04:34:51 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
@@ -15379,6 +15544,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2026-05-29 03:16:15 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/cyan_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-05-29 04:35:39 +0000"
     },
     "done": true
   },
@@ -15478,6 +15649,12 @@
     },
     "done": true
   },
+  "darkrpg:more_ghast": {
+    "criteria": {
+      "darkrpg_more_ghast": "2026-05-29 04:34:51 +0000"
+    },
+    "done": false
+  },
   "mythicupgrades:recipes/misc/ruby_ingot": {
     "criteria": {
       "has_necessary_ingredients": "2026-05-29 02:50:37 +0000"
@@ -15553,6 +15730,12 @@
   "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2026-05-29 04:41:19 +0000"
     },
     "done": true
   },
