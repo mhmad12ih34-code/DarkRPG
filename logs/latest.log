@@ -480,3 +480,5 @@ java.lang.NullPointerException: uuid
 [01:33:45] [Server thread/INFO]: King_GamesYT was slain by Zombie
 [01:33:45] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-01.33.45.dat
 [01:41:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1875MB, After: 1887MB
+[01:46:47] [Server thread/INFO]: King_GamesYT has completed the challenge [Going to Hell (Quest)]
+[01:56:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1910MB, After: 1920MB
