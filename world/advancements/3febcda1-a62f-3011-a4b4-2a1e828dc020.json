@@ -15757,6 +15757,18 @@
     },
     "done": true
   },
+  "wardentools:recipes/tools/warden_hoe_smithing": {
+    "criteria": {
+      "has_sculk_shell": "2026-05-29 10:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2026-05-29 10:44:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 10:42:54 +0000"
@@ -15769,9 +15781,75 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2026-05-29 10:46:54 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_gray_wool": {
+    "criteria": {
+      "has_item": "2026-05-29 10:46:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/palettes/scorchia": {
     "criteria": {
       "has_item": "2026-05-29 10:42:54 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_soul_torch": {
+    "criteria": {
+      "has_item": "2026-05-29 10:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2026-05-29 10:46:54 +0000"
+    },
+    "done": true
+  },
+  "wardentools:recipes/combat/warden_sword_smithing": {
+    "criteria": {
+      "has_sculk_shell": "2026-05-29 10:44:03 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:soul_torch": {
+    "criteria": {
+      "darkrpg_soul_torch": "2026-05-29 10:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2026-05-29 10:44:02 +0000"
+    },
+    "done": true
+  },
+  "wardentools:recipes/combat/warden_chestplate_smithing": {
+    "criteria": {
+      "has_sculk_shell": "2026-05-29 10:44:03 +0000"
+    },
+    "done": true
+  },
+  "wardentools:recipes/combat/warden_helmet_smithing": {
+    "criteria": {
+      "has_sculk_shell": "2026-05-29 10:44:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_torch": "2026-05-29 10:44:09 +0000"
+    },
+    "done": true
+  },
+  "wardentools:recipes/combat/warden_boots_smithing": {
+    "criteria": {
+      "has_sculk_shell": "2026-05-29 10:44:03 +0000"
     },
     "done": true
   },
@@ -15787,9 +15865,33 @@
     },
     "done": true
   },
+  "cushypillows:recipes/building_blocks/gray_pillow": {
+    "criteria": {
+      "has_gray_wool": "2026-05-29 10:46:54 +0000"
+    },
+    "done": true
+  },
+  "wardentools:recipes/tools/warden_shovel_smithing": {
+    "criteria": {
+      "has_sculk_shell": "2026-05-29 10:44:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 10:42:54 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/death_hood": {
+    "criteria": {
+      "has_soul_torch": "2026-05-29 10:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2026-05-29 10:46:54 +0000"
     },
     "done": true
   },
@@ -15805,15 +15907,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2026-05-29 10:46:54 +0000"
+    },
+    "done": true
+  },
+  "wardentools:recipes/combat/warden_axe_smithing": {
+    "criteria": {
+      "has_sculk_shell": "2026-05-29 10:44:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 10:42:54 +0000"
     },
     "done": true
   },
+  "wardentools:recipes/combat/warden_leggings_smithing": {
+    "criteria": {
+      "has_sculk_shell": "2026-05-29 10:44:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 10:42:54 +0000"
+    },
+    "done": true
+  },
+  "wardentools:recipes/tools/warden_pickaxe_smithing": {
+    "criteria": {
+      "has_sculk_shell": "2026-05-29 10:44:03 +0000"
     },
     "done": true
   },
@@ -15856,6 +15982,18 @@
   "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 10:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2026-05-29 10:46:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2026-05-29 10:46:54 +0000"
     },
     "done": true
   },

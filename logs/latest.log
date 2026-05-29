@@ -6139,3 +6139,5 @@ java.lang.NullPointerException: uuid
 [10:37:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4316ms or 86 ticks behind
 [10:43:24] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1093MB, After: 1098MB
 [10:44:09] [Server thread/INFO]: King_GamesYT has completed the challenge [Light Of The Soul (Quest)]
+[10:50:01] [Server thread/INFO]: King_GamesYT has made the advancement [Power of One]
+[10:51:02] [Server thread/INFO]: King_GamesYT has reached the goal [Secret of The Sculk]
