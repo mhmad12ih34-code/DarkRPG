@@ -999,3 +999,20 @@ java.lang.NullPointerException: uuid
 [04:10:43] [Server thread/INFO]: [King_GamesYT: Teleported King_GamesYT to dcx501]
 [04:11:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 3196MB, After: 3233MB
 [04:14:31] [Server thread/INFO]: Villager class_1646['Cartographer'/78833, l='ServerLevel[world]', x=572.54, y=32.88, z=600.50] died, message: 'Cartographer was slain by King_GamesYT'
+[04:18:29] [Server thread/INFO]: King_GamesYT was slain by dcx501
+[04:18:29] [Server thread/INFO]: Created new backpack backup file for King_GamesYT with unique ID travelersbackpack.diamond_29.05.2026-04.18.29.dat
+[04:19:33] [Server thread/INFO]: [King_GamesYT: Teleported ok_98 to King_GamesYT]
+[04:22:29] [Server thread/INFO]: King_GamesYT has completed the challenge [Pass The Dip (Quest)]
+[04:22:33] [Server thread/INFO]: ok_98 has completed the challenge [Pass The Dip (Quest)]
+[04:25:10] [Server thread/INFO]: ok_98 lost connection: Disconnected
+[04:25:10] [Server thread/INFO]: ok_98 left the game
+[04:25:10] [Server thread/INFO]: ok_98 was killed
+[04:25:10] [Server thread/INFO]: Created new backpack backup file for ok_98 with unique ID travelersbackpack.emerald_29.05.2026-04.25.10.dat
+[04:25:10] [Server thread/INFO]: [PvPToggle] ok_98 has been punished for their cowardice!
+[04:25:10] [Server thread/INFO]: Updating all forceload tickets for 78e5ed0d-3a1c-3eae-8729-1d2575cc650a
+[04:26:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 3489MB, After: 3499MB
+[04:26:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
+[04:30:02] [Server thread/INFO]: King_GamesYT has completed the challenge [I'm Rich!! (Quest)]
+[04:31:55] [Server thread/INFO]: dcx501 has completed the challenge [Hot Tourist Destinations]
+[04:32:36] [Worker-Main-151/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/96262, l='ServerLevel[world]', x=821.00, y=31.00, z=435.00] as it would cause deadlock
+[04:32:36] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/96265, l='ServerLevel[world]', x=821.00, y=31.00, z=435.00] as it would cause deadlock

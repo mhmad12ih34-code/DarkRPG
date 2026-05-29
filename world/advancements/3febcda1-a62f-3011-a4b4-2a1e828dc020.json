@@ -14459,6 +14459,12 @@
     },
     "done": true
   },
+  "darkrpg:gold_nugget": {
+    "criteria": {
+      "darkrpg_gold_nugget": "2026-05-29 04:22:29 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
@@ -14744,6 +14750,12 @@
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:diamond_block2": {
+    "criteria": {
+      "darkrpg_diamond_block2": "2026-05-29 04:30:02 +0000"
     },
     "done": true
   },

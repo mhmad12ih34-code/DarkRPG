@@ -485,6 +485,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2026-05-29 04:21:08 +0000",
       "potato": "2026-05-29 03:37:33 +0000",
       "bread": "2026-05-27 00:12:23 +0000",
       "golden_apple": "2026-05-29 02:42:23 +0000"
@@ -9462,6 +9463,12 @@
     },
     "done": true
   },
+  "darkrpg:gold_nugget": {
+    "criteria": {
+      "darkrpg_gold_nugget": "2026-05-29 04:22:33 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2026-05-29 03:18:32 +0000"
@@ -9780,6 +9787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-05-29 04:22:33 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2026-05-29 03:18:32 +0000"
@@ -9912,6 +9925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-05-29 04:22:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2026-05-29 03:41:14 +0000"
@@ -10029,6 +10048,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2026-05-29 03:41:13 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_gold_nugget": "2026-05-29 04:22:33 +0000"
     },
     "done": true
   },
