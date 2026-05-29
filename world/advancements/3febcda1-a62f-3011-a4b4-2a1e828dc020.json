@@ -15829,9 +15829,21 @@
     },
     "done": true
   },
+  "mythicmetals:unobtainium_template": {
+    "criteria": {
+      "i_was_jumpscared_five_times_while_hunting_this_item": "2026-05-29 10:51:02 +0000"
+    },
+    "done": true
+  },
   "wardentools:recipes/combat/warden_chestplate_smithing": {
     "criteria": {
       "has_sculk_shell": "2026-05-29 10:44:03 +0000"
+    },
+    "done": true
+  },
+  "wardentools:recipes/food/echo_apple": {
+    "criteria": {
+      "has_echo_shard": "2026-05-29 10:50:03 +0000"
     },
     "done": true
   },
@@ -15844,6 +15856,12 @@
   "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
     "criteria": {
       "has_soul_torch": "2026-05-29 10:44:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/warden": {
+    "criteria": {
+      "has_echo_shard": "2026-05-29 10:50:03 +0000"
     },
     "done": true
   },
@@ -15871,6 +15889,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shapeless_c0_gray_wool": {
+    "criteria": {
+      "has_item": "2026-05-29 10:52:13 +0000"
+    },
+    "done": true
+  },
   "wardentools:recipes/tools/warden_shovel_smithing": {
     "criteria": {
       "has_sculk_shell": "2026-05-29 10:44:03 +0000"
@@ -15880,6 +15904,12 @@
   "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 10:42:54 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c1_gray_wool": {
+    "criteria": {
+      "has_item": "2026-05-29 10:52:13 +0000"
     },
     "done": true
   },
@@ -15922,6 +15952,12 @@
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 10:42:54 +0000"
+    },
+    "done": true
+  },
+  "extensivediamonds:fused_diamond": {
+    "criteria": {
+      "requirement": "2026-05-29 10:50:01 +0000"
     },
     "done": true
   },
@@ -16003,9 +16039,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2026-05-29 10:50:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2026-05-29 10:42:54 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:recipes/unobtainium_alloy_template": {
+    "criteria": {
+      "found_template": "2026-05-29 10:51:02 +0000"
     },
     "done": true
   },
