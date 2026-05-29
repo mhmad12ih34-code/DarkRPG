@@ -13289,6 +13289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2026-05-28 23:37:25 +0000"
@@ -13319,6 +13325,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_counter": {
     "criteria": {
       "has_birch_counter": "2026-05-28 23:37:25 +0000"
@@ -13328,6 +13340,12 @@
   "darkrpg:gold_nugget": {
     "criteria": {
       "darkrpg_gold_nugget": "2026-05-29 00:23:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
@@ -13355,6 +13373,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/transportation/dragons_blood_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2026-05-29 01:29:41 +0000"
@@ -13367,9 +13391,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/cherry_pie": {
     "criteria": {
       "has_cherry": "2026-05-29 01:10:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "batsgalore:recipes/transportation/white_pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
@@ -13415,6 +13457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_kelp": {
     "criteria": {
       "has_item": "2026-05-29 00:48:43 +0000"
@@ -13430,6 +13478,18 @@
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2026-05-28 23:44:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
@@ -13517,6 +13577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/goat_gear_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2026-05-29 00:48:05 +0000"
@@ -13529,6 +13595,12 @@
     },
     "done": true
   },
+  "batsgalore:recipes/transportation/spooky_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2026-05-29 01:29:41 +0000"
@@ -13538,6 +13610,12 @@
   "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
@@ -13562,6 +13640,12 @@
   "compressedblocks:recipes/building_blocks/shaped_c0_birch_planks": {
     "criteria": {
       "has_item": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
@@ -13601,9 +13685,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/transportation/juniper_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
@@ -13619,6 +13715,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2026-05-29 01:29:38 +0000"
@@ -13628,6 +13736,12 @@
   "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2026-05-29 00:40:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
@@ -13658,6 +13772,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2026-05-28 23:35:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
@@ -13697,6 +13817,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2026-05-28 23:37:25 +0000"
@@ -13721,6 +13847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2026-05-28 23:39:50 +0000"
@@ -13742,6 +13874,12 @@
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2026-05-28 23:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
@@ -13889,6 +14027,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2026-05-29 00:53:23 +0000"
@@ -13937,6 +14081,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
       "has_birch_drawer": "2026-05-28 23:37:25 +0000"
@@ -13973,9 +14123,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
@@ -14012,6 +14174,18 @@
   "things:recall_potion": {
     "criteria": {
       "recall_potion": "2026-05-29 00:26:58 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/elder_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
@@ -14117,6 +14291,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
+    },
+    "done": true
+  },
   "mythicmetals:mythril": {
     "criteria": {
       "mith": "2026-05-28 23:49:48 +0000"
@@ -14132,6 +14312,12 @@
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
@@ -14168,6 +14354,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2026-05-29 01:21:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-29 02:07:03 +0000"
     },
     "done": true
   },
