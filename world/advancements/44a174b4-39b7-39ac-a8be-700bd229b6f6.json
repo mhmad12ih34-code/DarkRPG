@@ -2187,6 +2187,7 @@
       "bread": "2026-05-26 22:39:49 +0000",
       "golden_apple": "2026-05-27 22:04:49 +0000",
       "golden_carrot": "2026-05-28 08:58:19 +0000",
+      "beetroot": "2026-05-29 03:03:55 +0000",
       "cooked_chicken": "2026-05-26 23:44:30 +0000",
       "enchanted_golden_apple": "2026-05-27 22:46:51 +0000",
       "carrot": "2026-05-26 22:55:45 +0000"
@@ -14602,6 +14603,18 @@
     },
     "done": true
   },
+  "darkbosses:decaying_king_boss": {
+    "criteria": {
+      "decaying_king_boss": "2026-05-29 03:03:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:heap_of_iron": {
+    "criteria": {
+      "guts_sword": "2026-05-29 03:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
@@ -14674,6 +14687,12 @@
     },
     "done": true
   },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "condition_0": "2026-05-29 03:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
@@ -14704,6 +14723,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
+    "criteria": {
+      "has_item": "2026-05-29 03:03:05 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_blackstone": {
     "criteria": {
       "has_item": "2026-05-29 02:44:57 +0000"
@@ -14731,6 +14756,12 @@
   "nethersdelight:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2026-05-29 02:44:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_chest": {
+    "criteria": {
+      "has_item": "2026-05-29 03:03:05 +0000"
     },
     "done": true
   },
@@ -14769,6 +14800,12 @@
       "has_raw_medium": "2026-05-29 02:44:21 +0000"
     },
     "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "guts_sword": "2026-05-29 03:01:58 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {

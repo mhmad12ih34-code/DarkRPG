@@ -9266,9 +9266,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2026-05-29 03:02:04 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:custom_backpack": {
     "criteria": {
       "custom_backpack": "2026-05-29 02:58:48 +0000"
+    },
+    "done": true
+  },
+  "batsgalore:bat_death": {
+    "criteria": {
+      "wither_skeleton_bat": "2026-05-29 03:02:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2026-05-29 03:02:04 +0000"
     },
     "done": true
   },
@@ -9277,6 +9295,12 @@
       "has_emerald": "2026-05-29 02:58:48 +0000"
     },
     "done": true
+  },
+  "batsgalore:candy_collection": {
+    "criteria": {
+      "wither_skull_candy": "2026-05-29 03:02:40 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
