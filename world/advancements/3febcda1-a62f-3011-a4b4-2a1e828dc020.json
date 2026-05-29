@@ -14471,6 +14471,12 @@
     },
     "done": true
   },
+  "clutter:recipes/building_blocks/reinforced_copper_glass": {
+    "criteria": {
+      "has_copper_nugget": "2026-05-29 06:27:09 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
@@ -14894,6 +14900,12 @@
   "compressedblocks:recipes/misc/shapeless_crated_rotten_flesh": {
     "criteria": {
       "has_item": "2026-05-29 04:07:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2026-05-29 06:27:09 +0000"
     },
     "done": true
   },
