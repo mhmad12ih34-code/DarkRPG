@@ -1097,3 +1097,5 @@ java.lang.NullPointerException: uuid
 [05:02:41] [Server thread/INFO]: Updating all forceload tickets for d67fdf8a-c225-35eb-9452-657f281dae6a
 [05:11:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 2315MB, After: 2319MB
 [05:26:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1857MB, After: 1860MB
+[05:40:42] [Server thread/INFO]: Player literal{King_GamesYT} chose Origin: aspects:anemo_layers/anemo, for layer: aspects:elements
+[05:41:05] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1908MB, After: 1911MB
