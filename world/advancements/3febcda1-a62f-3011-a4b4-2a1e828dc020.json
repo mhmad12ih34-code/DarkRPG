@@ -14301,5 +14301,53 @@
     },
     "done": true
   },
+  "minecraft:bronze/got_tin_ingot": {
+    "criteria": {
+      "got_tin_ingot": "2026-05-29 01:03:04 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/obsidian_witch_altar": {
+    "criteria": {
+      "has_item": "2026-05-29 01:07:51 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_obsidian": {
+    "criteria": {
+      "has_item": "2026-05-29 01:07:51 +0000"
+    },
+    "done": true
+  },
+  "bonfires:recipes/misc/titanite_shard_from_smelting_obsidian": {
+    "criteria": {
+      "has_obsidian": "2026-05-29 01:07:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2026-05-29 01:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2026-05-29 01:07:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2026-05-29 01:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-05-29 01:07:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

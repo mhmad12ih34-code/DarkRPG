@@ -13247,6 +13247,12 @@
     },
     "done": true
   },
+  "darkrpg:obsidian2": {
+    "criteria": {
+      "darkrpg_obsidian": "2026-05-29 01:06:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2026-05-28 23:37:25 +0000"
@@ -13292,6 +13298,12 @@
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cherry_jam": {
+    "criteria": {
+      "has_cherry": "2026-05-29 01:10:24 +0000"
     },
     "done": true
   },
@@ -13346,6 +13358,12 @@
   "mcdw:recipes/daggers/dagger_fangs_of_frost": {
     "criteria": {
       "has_snow_block": "2026-05-28 23:35:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cherry_pie": {
+    "criteria": {
+      "has_cherry": "2026-05-29 01:10:24 +0000"
     },
     "done": true
   },
@@ -13961,6 +13979,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/cherry_sapling": {
+    "criteria": {
+      "has_cherry": "2026-05-29 01:10:24 +0000"
+    },
+    "done": true
+  },
   "darkrpg:iron_bars": {
     "criteria": {
       "darkrpg_iron_bars": "2026-05-29 00:40:45 +0000"
@@ -14174,6 +14198,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2026-05-28 23:37:25 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/camera": {
+    "criteria": {
+      "has_lever": "2026-05-29 01:03:49 +0000"
     },
     "done": true
   },
