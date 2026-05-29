@@ -677,6 +677,8 @@
       "minecraft:skeleton": "2026-05-26 22:49:26 +0000",
       "minecraft:spider": "2026-05-26 22:53:20 +0000",
       "minecraft:creeper": "2026-05-27 01:46:17 +0000",
+      "minecraft:zombified_piglin": "2026-05-29 02:16:12 +0000",
+      "minecraft:wither_skeleton": "2026-05-29 02:14:46 +0000",
       "minecraft:enderman": "2026-05-27 10:37:21 +0000",
       "minecraft:zombie": "2026-05-26 23:07:46 +0000"
     },
@@ -3875,8 +3877,10 @@
       "willow_forest": "2026-05-26 23:26:03 +0000",
       "poppy_fields": "2026-05-27 00:44:52 +0000",
       "rocky_meadow": "2026-05-26 23:23:53 +0000",
+      "mycotoxic_undergrowth": "2026-05-29 02:12:28 +0000",
       "maple_forest": "2026-05-27 01:59:02 +0000",
       "magnolia_highlands": "2026-05-27 10:41:21 +0000",
+      "blackstone_basin": "2026-05-29 02:13:00 +0000",
       "temperate_grove": "2026-05-27 10:37:08 +0000",
       "pumpkin_fields": "2026-05-27 00:45:01 +0000",
       "pine_slopes": "2026-05-27 10:41:04 +0000",
@@ -14355,9 +14359,58 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/misc/shaped_crated_quartz": {
+    "criteria": {
+      "has_item": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2026-05-29 02:12:28 +0000",
+      "blackstone_basin": "2026-05-29 02:13:00 +0000"
+    },
+    "done": false
+  },
+  "amethyst_imbuement:recipes/crystal_altar": {
+    "criteria": {
+      "has_items": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "batsgalore:bat_death": {
+    "criteria": {
+      "undead_bat": "2026-05-29 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_cracked_stone_bricks": {
     "criteria": {
       "has_item": "2026-05-29 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-05-29 02:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2026-05-29 02:12:42 +0000"
     },
     "done": true
   },
@@ -14367,9 +14420,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-05-29 02:16:02 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/quartz_crystal": {
+    "criteria": {
+      "has_quartz": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2026-05-29 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-05-29 02:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-05-29 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-05-29 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_beetroot": {
+    "criteria": {
+      "has_item": "2026-05-29 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-05-29 02:12:23 +0000"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/quartz": {
+    "criteria": {
+      "got_quartz": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2026-05-29 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-29 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2026-05-29 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2026-05-29 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "batsgalore:candy_collection": {
+    "criteria": {
+      "zombie_flesh_lollipop": "2026-05-29 02:13:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2026-05-29 02:12:42 +0000"
     },
     "done": true
   },
