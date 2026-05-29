@@ -679,6 +679,7 @@
       "minecraft:creeper": "2026-05-27 01:46:17 +0000",
       "minecraft:zombified_piglin": "2026-05-29 02:16:12 +0000",
       "minecraft:wither_skeleton": "2026-05-29 02:14:46 +0000",
+      "minecraft:piglin": "2026-05-29 04:02:01 +0000",
       "minecraft:enderman": "2026-05-27 10:37:21 +0000",
       "minecraft:zombie": "2026-05-26 23:07:46 +0000"
     },
@@ -14360,6 +14361,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2026-05-29 04:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2026-05-29 03:56:24 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_quartz": {
     "criteria": {
       "has_item": "2026-05-29 02:12:42 +0000"
@@ -14403,6 +14416,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
+    "criteria": {
+      "has_yellow_bioshroom": "2026-05-29 04:01:46 +0000"
+    },
+    "done": true
+  },
   "consularsorigins:overworld": {
     "criteria": {
       "overworld": "2026-05-29 03:50:10 +0000"
@@ -14412,6 +14431,12 @@
   "batsgalore:bat_death": {
     "criteria": {
       "undead_bat": "2026-05-29 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom": "2026-05-29 04:01:46 +0000"
     },
     "done": true
   },
@@ -14457,6 +14482,12 @@
     },
     "done": true
   },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2026-05-29 04:01:30 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
     "criteria": {
       "has_item": "2026-05-29 03:03:05 +0000"
@@ -14468,6 +14499,12 @@
       "has_item": "2026-05-29 01:51:08 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "yellow_bioshroom": "2026-05-29 04:01:46 +0000"
+    },
+    "done": false
   },
   "soulsweapons:recipes/combat/moonlight_greatsword": {
     "criteria": {
@@ -14535,6 +14572,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2026-05-29 03:56:18 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/opulent_armor_helmet": {
     "criteria": {
       "has_emerald_gear_helmet": "2026-05-29 01:27:22 +0000"
@@ -14565,6 +14608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2026-05-29 03:56:24 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2026-05-29 01:51:08 +0000"
@@ -14592,6 +14641,12 @@
   "compressedblocks:compression/c0": {
     "criteria": {
       "get_c0": "2026-05-29 02:52:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2026-05-29 04:01:46 +0000"
     },
     "done": true
   },
@@ -14769,6 +14824,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-05-29 03:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2026-05-29 02:12:42 +0000"
@@ -14837,7 +14898,8 @@
   },
   "batsgalore:candy_collection": {
     "criteria": {
-      "zombie_flesh_lollipop": "2026-05-29 02:13:09 +0000"
+      "zombie_flesh_lollipop": "2026-05-29 02:13:09 +0000",
+      "wither_skull_candy": "2026-05-29 03:58:45 +0000"
     },
     "done": false
   },
@@ -14852,6 +14914,12 @@
       "yellow_bioshroom_stem": "2026-05-29 03:08:40 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-05-29 03:56:15 +0000"
+    },
+    "done": true
   },
   "soulsweapons:recipes/combat/skofnung": {
     "criteria": {

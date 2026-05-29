@@ -3274,6 +3274,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-05-29 03:53:17 +0000"
+    },
+    "done": true
+  },
   "variantfletchingtables:recipes/decorations/ru_blue_bioshroom_fletching_table": {
     "criteria": {
       "has_flint": "2026-05-29 03:38:06 +0000"
@@ -3427,6 +3433,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2026-05-29 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:magma_block": {
+    "criteria": {
+      "darkrpg_magma_block": "2026-05-29 03:53:13 +0000"
     },
     "done": true
   },
@@ -3715,6 +3727,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
     "criteria": {
       "has_stick": "2026-05-29 03:31:21 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_magma_block": {
+    "criteria": {
+      "has_item": "2026-05-29 03:53:13 +0000"
     },
     "done": true
   },
@@ -4665,6 +4683,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
     "criteria": {
       "has_iron_ingot": "2026-05-29 03:38:07 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_netherrack": {
+    "criteria": {
+      "has_item": "2026-05-29 03:53:17 +0000"
     },
     "done": true
   },

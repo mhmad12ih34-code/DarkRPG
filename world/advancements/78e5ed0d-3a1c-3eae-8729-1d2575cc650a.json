@@ -9274,6 +9274,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "darkrpg:iron_boots": {
     "criteria": {
       "darkrpg_iron_boots": "2026-05-29 03:14:44 +0000"
@@ -9304,9 +9310,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_quartz_pillar": {
     "criteria": {
       "has_item": "2026-05-29 03:34:48 +0000"
+    },
+    "done": true
+  },
+  "copperandtuffbackport:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -9319,6 +9337,12 @@
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "copperandtuffbackport:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -9340,6 +9364,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "darkrpg:rotten_flesh2": {
     "criteria": {
       "darkrpg_rotten_flesh2": "2026-05-29 03:45:12 +0000"
@@ -9355,6 +9385,12 @@
   "handcrafted:recipes/misc/spruce_dining_bench": {
     "criteria": {
       "has_spruce_dining_bench": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -9382,6 +9418,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2026-05-29 03:50:56 +0000"
@@ -9397,6 +9439,18 @@
   "batsgalore:bat_death": {
     "criteria": {
       "wither_skeleton_bat": "2026-05-29 03:02:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
+  "copperandtuffbackport:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -9466,6 +9520,12 @@
     },
     "done": true
   },
+  "copperandtuffbackport:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
     "criteria": {
       "has_spruce_planks": "2026-05-29 03:18:32 +0000"
@@ -9496,6 +9556,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2026-05-29 03:41:13 +0000"
@@ -9508,9 +9574,21 @@
     },
     "done": true
   },
+  "copperandtuffbackport:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_lead": {
     "criteria": {
       "has_item": "2026-05-29 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -9520,9 +9598,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2026-05-29 03:41:14 +0000"
+    },
+    "done": true
+  },
+  "copperandtuffbackport:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -9553,6 +9643,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "copperandtuffbackport:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -9592,6 +9688,12 @@
     },
     "done": true
   },
+  "copperandtuffbackport:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2026-05-29 03:18:32 +0000"
@@ -9607,6 +9709,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -9649,6 +9757,24 @@
   "doggytalents:recipes/decorations/ceremonial_garb": {
     "criteria": {
       "has_lead": "2026-05-29 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
+  "copperandtuffbackport:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
+  "copperandtuffbackport:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -9808,6 +9934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2026-05-29 03:41:14 +0000"
@@ -9856,6 +9988,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2026-05-29 03:02:04 +0000"
@@ -9865,6 +10003,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2026-05-29 03:41:14 +0000"
+    },
+    "done": true
+  },
+  "copperandtuffbackport:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -9886,9 +10030,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "copperandtuffbackport:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
+  "copperandtuffbackport:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -9922,6 +10084,12 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shaped_c0_tuff": {
+    "criteria": {
+      "has_item": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2026-05-29 03:42:22 +0000"
@@ -9931,6 +10099,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
+  "copperandtuffbackport:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -10000,6 +10180,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2026-05-29 03:41:13 +0000"
@@ -10024,6 +10210,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_blackstone": {
     "criteria": {
       "has_item": "2026-05-29 03:06:44 +0000"
@@ -10045,6 +10237,12 @@
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2026-05-29 03:16:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -10114,6 +10312,12 @@
     },
     "done": true
   },
+  "copperandtuffbackport:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 03:06:44 +0000"
@@ -10171,6 +10375,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-05-29 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
@@ -10282,6 +10492,18 @@
     },
     "done": true
   },
+  "copperandtuffbackport:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
     "criteria": {
       "has_item": "2026-05-29 03:42:22 +0000"
@@ -10384,6 +10606,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
     "criteria": {
       "has_spruce_planks": "2026-05-29 03:18:32 +0000"
@@ -10420,9 +10648,21 @@
     },
     "done": true
   },
+  "copperandtuffbackport:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2026-05-29 04:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2026-05-29 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-05-29 04:00:15 +0000"
     },
     "done": true
   },
