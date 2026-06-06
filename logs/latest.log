@@ -5457,3 +5457,630 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13:09:20] [main/ERROR]: There was a problem reading sub-power "medievalorigins:revenant/poor_reputation_tradingpost_msg" in power file "medievalorigins:revenant/poor_reputation": Error reading data field at block_condition.block: Identifier "tradingpost:trading_post" was not registered in registry "minecraft:block".
 [13:09:20] [main/ERROR]: There was a problem reading power file foxboi_two:diet (skipping): Error reading data field at item_condition.conditions.[3]: ItemCondition json type "origins:berries" is not defined.
 [13:09:20] [main/ERROR]: There was a problem reading power file consularsorigins:madeofbones (skipping): Error reading data field at condition.radius: JSON requires field: radius
+[13:09:21] [main/ERROR]: There was a problem reading power file medievalorigins:siren/siren_ignore (skipping): Error reading data field at mob_condition.entity_type: Identifier "iceandfire:siren" was not registered in registry "minecraft:entity_type".
+[13:09:21] [main/ERROR]: There was a problem reading power file pix:2.1_block_tall (skipping): Error reading data field at scale_types: JSON requires field: scale_types
+[13:09:21] [main/ERROR]: There was a problem reading power file medievalorigins:test (skipping): Error reading data field at entity_action.cast_time: JSON requires field: cast_time
+[13:09:21] [main/ERROR]: There was a problem reading power file pix:0.5_block_tall (skipping): Error reading data field at scale_types: JSON requires field: scale_types
+[13:09:21] [main/ERROR]: There was a problem reading power file origins:swim_speed (skipping): Error reading data field at modifier.attribute: Identifier "additionalentityattributes:water_speed" was not registered in registry "minecraft:attribute".
+[13:09:21] [main/ERROR]: There was a problem reading power file medievalorigins:test_2 (skipping): Error reading data field at entity_action.bientity_action.cast_time: JSON requires field: cast_time
+[13:09:21] [main/ERROR]: There was a problem reading power file pix:1_block_tall (skipping): Error reading data field at scale_types: JSON requires field: scale_types
+[13:09:21] [main/ERROR]: There was a problem reading power file pix:1.1_block_tall (skipping): Error reading data field at scale_types: JSON requires field: scale_types
+[13:09:21] [main/ERROR]: There was a problem reading sub-power "medievalorigins:valkyrie/vanquisher_spell_power_forge" in power file "medievalorigins:valkyrie/vanquisher": Error reading data field at attribute: Identifier "irons_spellbooks:holy_spell_power" was not registered in registry "minecraft:attribute".
+[13:09:21] [main/INFO]: Finished loading powers from data files. Registry contains 3645 powers.
+[13:09:21] [main/ERROR]: Origin "medievalorigins:revenant" contained unregistered power: "origins_survive:sleepless"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:gorgon" contained unregistered power: "origins_env_deh:thirst_resistance"
+[13:09:21] [main/ERROR]: There was a problem reading Origin file consularsorigins:lich (skipping): Error reading data field at icon: Identifier "twilightforest:lich_trophy" was not registered in registry "minecraft:item".
+[13:09:21] [main/ERROR]: Origin "aspects:geo/dendro" contained unregistered power: "aspects:suspicious_substance"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:high_elf" contained unregistered power: "medievalorigins:high_elf/mana_irons"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:high_elf" contained unregistered power: "medievalorigins:high_elf/mana_irons_ars"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:high_elf" contained unregistered power: "medievalorigins:high_elf/mana_ars"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:banshee" contained unregistered power: "origins_survive:sleepless"
+[13:09:21] [main/ERROR]: Origin "pix:goblin" contained unregistered power: "pix:1.1_block_tall"
+[13:09:21] [main/ERROR]: Origin "pix:rat_state_8" contained unregistered power: "pix:1_block_tall"
+[13:09:21] [main/ERROR]: Origin "pix:rat_state_7" contained unregistered power: "pix:1_block_tall"
+[13:09:21] [main/ERROR]: Origin "origins:merling" contained unregistered power: "origins:swim_speed"
+[13:09:21] [main/ERROR]: Origin "origins:merling" contained unregistered power: "origins:swim_speed"
+[13:09:21] [main/ERROR]: Origin "pix:rat_state_9" contained unregistered power: "pix:1_block_tall"
+[13:09:21] [main/ERROR]: Origin "pix:rat_state_9" contained unregistered power: "origins:hydrophobic"
+[13:09:21] [main/ERROR]: Origin "pix:rat_state_4" contained unregistered power: "pix:0.5_block_tall"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:ogre" contained unregistered power: "origins_survive:illness_resistance"
+[13:09:21] [main/ERROR]: Origin "pix:rat_state_3" contained unregistered power: "pix:0.5_block_tall"
+[13:09:21] [main/ERROR]: Origin "pix:rat_state_6" contained unregistered power: "pix:1_block_tall"
+[13:09:21] [main/ERROR]: Origin "pix:rat_state_5" contained unregistered power: "pix:0.5_block_tall"
+[13:09:21] [main/ERROR]: Origin "aqua_chidori:aqua_chidori" contained unregistered power: "origins:swim_speed"
+[13:09:21] [main/ERROR]: Origin "sculkedmagpie:craw" contained unregistered power: "sculkedmagpie:takeoff"
+[13:09:21] [main/ERROR]: Origin "pix:rat_state_2" contained unregistered power: "pix:0.5_block_tall"
+[13:09:21] [main/ERROR]: Origin "pix:rat_state_1" contained unregistered power: "pix:0.5_block_tall"
+[13:09:21] [main/ERROR]: Origin "consularsorigins:axolotl" contained unregistered power: "origins:swim_speed"
+[13:09:21] [main/ERROR]: Origin "terrariaorigins:shimmerling" contained unregistered power: "terrariaorigins:shimmerling_transformations/bowerator"
+[13:09:21] [main/ERROR]: Origin "pix:obsidian_golem" contained unregistered power: "pix:2.1_block_tall"
+[13:09:21] [main/ERROR]: Origin "pix:rat_state_10" contained unregistered power: "pix:1_block_tall"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:siren" contained unregistered power: "medievalorigins:siren/siren_ignore"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:siren" contained unregistered power: "origins_env_deh:water_dweller"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:siren" contained unregistered power: "origins_env_deh:cold_resistance"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:siren" contained unregistered power: "thermoo-patches:cold_immune"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:siren" contained unregistered power: "survive:cold_blooded"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:incubus" contained unregistered power: "origins_env_deh:heat_resistance"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:incubus" contained unregistered power: "thermoo-patches:heat_immune"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:incubus" contained unregistered power: "thermoo-patches:cold_vulnerability"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:incubus" contained unregistered power: "origins_survive:lava_drinker"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:incubus" contained unregistered power: "origins_survive:heat_resistance"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:incubus" contained unregistered power: "origins_toughasnails:lava_drinker"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:incubus" contained unregistered power: "origins_toughasnails:thermal_regulator"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:troll" contained unregistered power: "medievalorigins:troll/spell_power"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:troll" contained unregistered power: "origins_env_deh:cold_resistance"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:troll" contained unregistered power: "thermoo-patches:cold_immune"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:troll" contained unregistered power: "origins_survive:cold_resistance"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:troll" contained unregistered power: "origins_toughasnails:cold_resistance"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:plague_victim" contained unregistered power: "origins_survive:illness_resistance"
+[13:09:21] [main/ERROR]: Origin "apocalypse:myconoid_skulk" contained unregistered power: "apocalypse:myconoids/skulk_primary"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:wood_elf" contained unregistered power: "medievalorigins:wood_elf/spell_power"
+[13:09:21] [main/ERROR]: Origin "dolphling:dolphling" contained unregistered power: "origins:swim_speed"
+[13:09:21] [main/ERROR]: Origin "beeorigin:bumblebee" contained unregistered power: "beeorigin:death"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:moon_elf" contained unregistered power: "origins_survive:sleepless"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:yeti" contained unregistered power: "medievalorigins:yeti/spell_power"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:yeti" contained unregistered power: "origins_env_deh:cold_resistance"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:yeti" contained unregistered power: "thermoo-patches:cold_immune"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:yeti" contained unregistered power: "origins_survive:cold_resistance"
+[13:09:21] [main/ERROR]: Origin "medievalorigins:yeti" contained unregistered power: "origins_toughasnails:cold_resistance"
+[13:09:21] [main/ERROR]: Origin "foxboi_two:foxboi_two" contained unregistered power: "foxboi_two:diet"
+[13:09:21] [main/ERROR]: Origin "foxboi_two:foxboi_two" contained unregistered power: "foxboi_two:smolman"
+[13:09:21] [main/ERROR]: Origin "pix:underling" contained unregistered power: "pix:1_block_tall"
+[13:09:21] [main/INFO]: Finished loading origins from data files. Registry contains 187 origins.
+[13:09:21] [main/INFO]: Trying to read layer file: aspects:elements
+[13:09:21] [main/INFO]: Trying to read layer file: medievalorigins:magic_subclasses
+[13:09:21] [main/INFO]: Trying to read layer file: origins-classes:class
+[13:09:21] [main/INFO]: Trying to read layer file: origins-classes:class
+[13:09:21] [main/INFO]: Trying to read layer file: origins:apocalypse_hidden
+[13:09:21] [main/INFO]: Trying to read layer file: consularsorigins:gnome_subclass
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: origins:origin
+[13:09:21] [main/INFO]: Trying to read layer file: aspects:origins
+[13:09:21] [main/INFO]: Trying to read layer file: origins:ordnance_hidden
+[13:09:21] [main/INFO]: Finished loading origin layers from data files. Read 8 layers.
+[13:09:21] [main/INFO]: [STDOUT]: reading set: gear_core:gear_core_sets/archons_set.json
+[13:09:21] [main/INFO]: [STDOUT]: reading set: gear_core:gear_core_sets/celestial_set.json
+[13:09:21] [main/INFO]: [STDOUT]: reading set: gear_core:gear_core_sets/champions_set.json
+[13:09:21] [main/INFO]: [STDOUT]: reading set: gear_core:gear_core_sets/elementalists_set.json
+[13:09:21] [main/INFO]: [STDOUT]: reading set: gear_core:gear_core_sets/eternity_set.json
+[13:09:21] [main/INFO]: [STDOUT]: reading set: gear_core:gear_core_sets/hunters_set.json
+[13:09:21] [main/INFO]: [STDOUT]: reading set: gear_core:gear_core_sets/lich_kings_set.json
+[13:09:21] [main/INFO]: [STDOUT]: reading set: gear_core:gear_core_sets/scholars_set.json
+[13:09:21] [main/INFO]: [STDOUT]: reading set: gear_core:gear_core_sets/spellblades_set.json
+[13:09:21] [main/INFO]: [STDOUT]: reading set: gear_core:gear_core_sets/void_set.json
+[13:09:21] [main/INFO]: [STDOUT]: reading set: gear_core:gear_core_sets/warriors_set.json
+[13:09:21] [main/ERROR]: Slab minecraft:pale_oak_slab could not be found.
+[13:09:21] [main/ERROR]: Slab minecraft:resin_brick_slab could not be found.
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id cardiac:life_bottle - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: cardiac:life_bottle
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id doggytalents:rice_from_grass_modifier - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: doggytalents:rice_from_grass
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id doggytalents:soy_from_zombie_modifier - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: doggytalents:soy_from_zombie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_plains_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_desert_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_trail_ruins_rare_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_tannery_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_big_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_weaponsmith_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_armorer_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_fisher_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_desert_pyramid_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_desert_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_temple_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_toolsmith_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_plains_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_savanna_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:shipwreck_treasure_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_big_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_ocean_ruin_cold_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_shepherd_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_butcher_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_snowy_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_ocean_ruin_warm_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_taiga_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:simple_dungeon_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_cartographer_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_taiga_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_taiga_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_desert_well_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_savanna_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_butcher_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_mason_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_snowy_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_small_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_shepherd_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_shepherd_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_toolsmith_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:simple_dungeon_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_small_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_weaponsmith_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_trail_ruins_common_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_small_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_mason_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_toolsmith_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_cartographer_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_mason_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_butcher_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_armorer_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_fisher_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_tannery_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:shipwreck_treasure_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_armorer_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_desert_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:buried_treasure_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_fisher_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_cartographer_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:buried_treasure_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_plains_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_snowy_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:buried_treasure_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:shipwreck_treasure_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_big_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_weaponsmith_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_savanna_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:simple_dungeon_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_tannery_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_temple_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_temple_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[13:09:21] [main/INFO]: [Fabric Seasons] Successfully loaded 118 custom crop configs.
+[13:09:21] [ForkJoinPool.commonPool-worker-3/INFO]: Loaded 702 translation keys
+[13:09:21] [main/INFO]: Loaded 294 recipes
+[13:09:21] [main/INFO]: Resource tiered:reforge_items/archerreforges1.json was not loaded cause archers:netherite_rapid_shortbow is not a valid item identifier
+[13:09:21] [main/INFO]: Resource tiered:reforge_items/archerreforges1.json was not loaded cause archers:netherite_heavy_shortbow is not a valid item identifier
+[13:09:21] [main/INFO]: Resource tiered:reforge_items/crossbow.json was not loaded cause archers:mechanical_shortbow is not a valid item identifier
+[13:09:21] [main/ERROR]: Failed to load trade goblintraders:goblin_trader/uncommon
+com.google.gson.JsonSyntaxException: Missing tiers
+	at net.minecraft.class_3518.method_15272(class_3518.java:473) ~[server-intermediary.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:45) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.lambda$apply$0(TradeManager.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1430) ~[?:?]
+	at me.drex.villagerconfig.util.TradeManager.apply(TradeManager.java:38) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.method_18788(TradeManager.java:19) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:739) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:503) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.19.2.jar:?]
+[13:09:21] [main/ERROR]: Failed to load trade goblintraders:vein_goblin_trader/rare
+com.google.gson.JsonSyntaxException: Missing tiers
+	at net.minecraft.class_3518.method_15272(class_3518.java:473) ~[server-intermediary.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:45) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.lambda$apply$0(TradeManager.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1430) ~[?:?]
+	at me.drex.villagerconfig.util.TradeManager.apply(TradeManager.java:38) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.method_18788(TradeManager.java:19) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:739) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:503) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.19.2.jar:?]
+[13:09:21] [main/ERROR]: Failed to load trade goblintraders:goblin_trader/rare
+com.google.gson.JsonSyntaxException: Missing tiers
+	at net.minecraft.class_3518.method_15272(class_3518.java:473) ~[server-intermediary.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:45) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.lambda$apply$0(TradeManager.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1430) ~[?:?]
+	at me.drex.villagerconfig.util.TradeManager.apply(TradeManager.java:38) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.method_18788(TradeManager.java:19) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:739) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:503) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.19.2.jar:?]
+[13:09:32] [main/ERROR]: Failed to load trade goblintraders:goblin_trader/legendary
+com.google.gson.JsonSyntaxException: Missing tiers
+	at net.minecraft.class_3518.method_15272(class_3518.java:473) ~[server-intermediary.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:45) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.lambda$apply$0(TradeManager.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1430) ~[?:?]
+	at me.drex.villagerconfig.util.TradeManager.apply(TradeManager.java:38) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.method_18788(TradeManager.java:19) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:739) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:503) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.19.2.jar:?]
+[13:09:32] [main/ERROR]: Failed to load trade goblintraders:vein_goblin_trader/legendary
+com.google.gson.JsonSyntaxException: Missing tiers
+	at net.minecraft.class_3518.method_15272(class_3518.java:473) ~[server-intermediary.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:45) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.lambda$apply$0(TradeManager.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1430) ~[?:?]
+	at me.drex.villagerconfig.util.TradeManager.apply(TradeManager.java:38) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.method_18788(TradeManager.java:19) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:739) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:503) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.19.2.jar:?]
+[13:09:32] [main/ERROR]: Failed to load trade goblintraders:vein_goblin_trader/uncommon
+com.google.gson.JsonSyntaxException: Missing tiers
+	at net.minecraft.class_3518.method_15272(class_3518.java:473) ~[server-intermediary.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:45) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.lambda$apply$0(TradeManager.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1430) ~[?:?]
+	at me.drex.villagerconfig.util.TradeManager.apply(TradeManager.java:38) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.method_18788(TradeManager.java:19) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:739) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:503) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.19.2.jar:?]
+[13:09:32] [main/ERROR]: Failed to load trade goblintraders:vein_goblin_trader/common
+com.google.gson.JsonSyntaxException: Missing tiers
+	at net.minecraft.class_3518.method_15272(class_3518.java:473) ~[server-intermediary.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:45) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.lambda$apply$0(TradeManager.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1430) ~[?:?]
+	at me.drex.villagerconfig.util.TradeManager.apply(TradeManager.java:38) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.method_18788(TradeManager.java:19) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:739) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:503) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.19.2.jar:?]
+[13:09:32] [main/ERROR]: Failed to load trade goblintraders:goblin_trader/common
+com.google.gson.JsonSyntaxException: Missing tiers
+	at net.minecraft.class_3518.method_15272(class_3518.java:473) ~[server-intermediary.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:45) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.lambda$apply$0(TradeManager.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1430) ~[?:?]
+	at me.drex.villagerconfig.util.TradeManager.apply(TradeManager.java:38) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.method_18788(TradeManager.java:19) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:739) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:503) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.19.2.jar:?]
+[13:09:32] [main/ERROR]: Failed to load trade goblintraders:vein_goblin_trader/epic
+com.google.gson.JsonSyntaxException: Missing tiers
+	at net.minecraft.class_3518.method_15272(class_3518.java:473) ~[server-intermediary.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:45) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.data.TradeTable$Serializer.deserialize(TradeTable.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.lambda$apply$0(TradeManager.java:40) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1430) ~[?:?]
+	at me.drex.villagerconfig.util.TradeManager.apply(TradeManager.java:38) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at me.drex.villagerconfig.util.TradeManager.method_18788(TradeManager.java:19) ~[villagerconfig-4.1.2+1.20.1.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:739) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:503) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.19.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.19.2.jar:?]
+[13:09:32] [main/INFO]: Loaded 0 trades
+[13:09:32] [main/INFO]: Loaded 1 global power sets.
+[13:09:35] [main/WARN]: Initial datapack load took 1.414 min
+[13:09:36] [main/INFO]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.class_3176
+[13:09:36] [main/INFO]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.class_3324
+[13:09:36] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[13:09:38] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[13:09:38] [main/INFO]: Applied 10626 biome modifications to 149 of 149 new biomes in 330.0 ms
+[13:09:38] [Server thread/INFO]: Loading server config for magnumtorch
+[13:09:38] [Thread-2/INFO]: Reloading server config for magnumtorch
+[13:09:38] [Server thread/INFO]: Loading server config for moblassos
+[13:09:38] [Thread-2/INFO]: Reloading server config for magnumtorch
+[13:09:38] [Server thread/INFO]: Loading server config for mutantmonsters
+[13:09:38] [Thread-2/INFO]: Reloading server config for mutantmonsters
+[13:09:38] [Thread-2/INFO]: Reloading server config for mutantmonsters
+[13:09:38] [Server thread/INFO]: Loading server config for universalbonemeal
+[13:09:38] [Thread-2/INFO]: Reloading server config for universalbonemeal
+[13:09:38] [Thread-2/INFO]: Reloading server config for universalbonemeal
+[13:09:38] [Server thread/INFO]: loaded team data: 5 known players, 5 teams total
+[13:09:39] [Server thread/INFO]: Loading server configs...
+[13:09:39] [Server thread/INFO]: Reading config.
+[13:09:39] [Server thread/INFO]: [puffish_skills] Mod configuration loaded successfully!
+[13:09:39] [Server thread/INFO]: [puffish_skills] Data pack `path_of_the_wizard` loaded successfully!
+[13:09:39] [Server thread/INFO]: [puffish_skills] Data pack `puffish_skills` loaded successfully!
+[13:09:39] [Server thread/INFO]: [puffish_skills] Data pack `skills_mastery` loaded successfully!
+[13:09:39] [Server thread/INFO]: [STDERR]: Spell Engine: Failed to parse spell: spellbladenext:spells/lightningsmite.json | Reason: com.google.gson.stream.MalformedJsonException: Expected name at line 12 column 4 path $.cast.animation
+[13:09:39] [Server thread/INFO]: [STDOUT]: null
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@38f16449
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@34cf3824
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@3bc984f1
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@29ccc402
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@1a2c3e5e
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@576f2b27
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@20f6c337
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@6f55ffff
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@14f0e285
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@3ae8c52f
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@2c91563e
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@6cfbee54
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@7f8ccd84
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@331aee7
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@25373819
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@160deba5
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@f74e40d
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@13c2592
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@1dd7325c
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@64feb280
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@4c82769e
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@2cf2ca29
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@8934839
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@19e88119
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@4601223c
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@7c980b57
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@6e58567d
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@3365f2e6
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@7c3a3674
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@40445817
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@6c0305dc
+[13:09:39] [Server thread/INFO]: [STDOUT]: net.spell_engine.api.spell.Spell@706d2878
+[13:09:39] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): 927261 bytes (in 93 string chunks with the size of 10000)
+[13:09:39] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[13:09:40] [Server thread/INFO]: Tables created
+[13:09:40] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[13:09:40] [Server thread/INFO]: Loading properties
+[13:09:40] [DefaultDispatcher-worker-1/INFO]: Inserting 27353 registry keys into the database...
+[13:09:40] [Server thread/INFO]: Default game type: SURVIVAL
+[13:09:40] [Server thread/INFO]: Generating keypair
+[13:09:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:09:40] [Server thread/INFO]: Using epoll channel type
+[13:09:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:09:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:09:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:09:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:09:40] [Server thread/INFO]: Preparing level "world"
+[13:09:40] [Server thread/INFO]: Initializing Open Parties and Claims for the server...
+[13:09:40] [Server thread/INFO]: Loading server info!
+[13:09:40] [Server thread/INFO]: Loading player configs...
+[13:09:40] [Server thread/WARN]: Incorrect key playerConfig.claims.protection.exceptionGroups.block.interact.Smithing_Tables was corrected from 0 to its default, null. 
+[13:09:40] [Server thread/WARN]: Incorrect key playerConfig.claims.protection.exceptionGroups.block.interact.Jukeboxes was corrected from 0 to its default, null. 
+[13:09:40] [Server thread/WARN]: Incorrect key playerConfig.claims.protection.exceptionGroups.block.interact.Lecterns was corrected from 0 to its default, null. 
+[13:09:40] [Server thread/WARN]: Incorrect key playerConfig.claims.protection.exceptionGroups.block.interact.Cartography_Tables was corrected from 0 to its default, null. 
+[13:09:40] [Server thread/WARN]: Incorrect key playerConfig.claims.protection.exceptionGroups.block.interact.Looms was corrected from 0 to its default, null. 
+[13:09:40] [Server thread/WARN]: Incorrect key playerConfig.claims.protection.exceptionGroups.block.interact.Grindstones was corrected from 0 to its default, null. 
+[13:09:40] [Server thread/WARN]: Incorrect key playerConfig.claims.protection.exceptionGroups.block.interact.Stonecutters was corrected from 0 to its default, null. 
+[13:09:40] [Server thread/WARN]: Incorrect key playerConfig.claims.protection.exceptionGroups.item.interact.Fishing_Rod was corrected from null to its default, 0. 
+[13:09:41] [Server thread/INFO]: Loaded player configs!
+[13:09:41] [Server thread/INFO]: Loading parties...
+[13:09:41] [Server thread/INFO]: Loaded parties!
+[13:09:41] [Server thread/INFO]: Fixing party inconsistencies...
+[13:09:41] [Server thread/INFO]: Registered party system for OPAC: default
+[13:09:41] [Server thread/INFO]: Registered party system for OPAC: ftb_teams
+[13:09:41] [Server thread/INFO]: Registered permission system for OPAC: permission_api
+[13:09:41] [Server thread/INFO]: Loading claims...
+[13:09:41] [Server thread/INFO]: Loaded claims in 230ms
+[13:09:41] [Server thread/INFO]: Configured OPAC to use the following permission system: permission_api
+[13:09:41] [Server thread/INFO]: Configured OPAC to use the following party system as primary: default
+[13:09:41] [Server thread/INFO]: Enforcing safe world random access
+[13:09:42] [Server thread/INFO]: Loading overlays for world: minecraft:overworld
+[13:09:42] [Server thread/INFO]: No existing overlay save file found
+[13:09:42] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:overworld
+[13:09:42] [Server thread/INFO]: Loading overlays for world: minecraft:the_end
+[13:09:42] [Server thread/INFO]: No existing overlay save file found
+[13:09:42] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_end
+[13:09:42] [Server thread/INFO]: Loading overlays for world: minecraft:the_nether
+[13:09:42] [Server thread/INFO]: No existing overlay save file found
+[13:09:42] [Server thread/INFO]: Loaded 0 overlays for dimension minecraft:the_nether
+[13:09:42] [Server thread/INFO]: Loading overlays for world: spellbladenext:glassocean
+[13:09:42] [Server thread/INFO]: No existing overlay save file found
+[13:09:42] [Server thread/INFO]: Loaded 0 overlays for dimension spellbladenext:glassocean
+[13:09:42] [Server thread/INFO]: Loading overlays for world: graveyard:past
+[13:09:42] [Server thread/INFO]: No existing overlay save file found
+[13:09:42] [Server thread/INFO]: Loaded 0 overlays for dimension graveyard:past
+[13:09:42] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[13:09:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:09:45] [DefaultDispatcher-worker-2/INFO]: Registry insert complete
+[13:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:09:47] [Server thread/INFO]: Preparing spawn area: 0%
+[13:09:48] [Server thread/INFO]: Preparing spawn area: 0%
+[13:09:49] [Server thread/WARN]: Method overwrite conflict for computeValue in spellbladenext.mixins.json:AttributeMixin from mod spellbladenext, previously written by com.extraspellattributes.mixin.AttributeMixin. Skipping method.
+[13:09:49] [Server thread/WARN]: Method overwrite conflict for computeAdded in spellbladenext.mixins.json:AttributeMixin from mod spellbladenext, previously written by com.extraspellattributes.mixin.AttributeMixin. Skipping method.
+[13:09:49] [Server thread/INFO]: Time elapsed: 7377 ms
+[13:09:49] [Server thread/INFO]: Done (9.259s)! For help, type "help"
+[13:09:50] [Server thread/WARN]: Dedicated server took 194.302 seconds to load
+[13:09:50] [Server thread/INFO]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.class_2926
+[13:09:50] [Server thread/INFO]: Loading quests from /workspaces/DarkRPG/config/ftbquests/quests
+[13:09:51] [Server thread/INFO]: Loaded 6 chapter groups, 38 chapters, 1893 quests, 2 reward tables
+[13:09:52] [Server thread/INFO]: Encoded Weapon Attribute registry size: 1019754 bytes (uncompressed), 53056 bytes (compressed), compression ratio: 94.8% (in 6 string chunks with the size of 10000)
+[13:09:52] [Server thread/INFO]: CatBurger模组已加载！
+[13:09:52] [Server thread/INFO]: Loaded values for 165 compatible attributes.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:swim_speed' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:moons_blessing' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:ends_blessing' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:projectile_damage' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:projectile_speed' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:blast_mining' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:resistance' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:looting' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'additionalentityattributes:dig_speed' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'additionalentityattributes:water_visibility' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:item_magnet' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:midas_touch' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'additionalentityattributes:critical_bonus_damage' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:regeneration' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:generic_step_height' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'additionalentityattributes:dropped_experience' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'spell_power:water_element' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:generic_oxygen_bonus' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:electrifying' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'additionalentityattributes:lava_visibility' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:dense' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:walking_furnace' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:trade_discount' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:suns_blessing' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'death_knights:unholy' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:projectile_dodge_chance' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'additionalentityattributes:water_speed' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'biomemakeover:projectile_resistance' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'minecraft:generic.max_stamina' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'spell_power:sound_element' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:blast_resistance' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:player_submerged_mining_speed' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:enchanters_favour' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:warriors_of_old' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:echoing' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'spell_power:corruption_element' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:share_effect_radius' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:holy' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:light_footed' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:fire_resistance' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'spell_power:wind_element' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:player_block_break_speed' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:projectile_deflect_chance' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'additionalentityattributes:magic_protection' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:bouncy' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'additionalentityattributes:bonus_loot_count_rolls' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'additionalentityattributes:lung_capacity' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'death_knights:blood' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:hydrophobic' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:fire_aspect' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:thorns' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'more_rpg_classes:sign_intensity' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:firey_thorns' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:fortune' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:brewers_dream' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'more_rpg_classes:adrenaline_modifier' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:cleaving' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:overgrown' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:unbreaking' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:bonus_xp' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:attack_deflect_chance' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:dodge_chance' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:glowing' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'spell_power:blood_element' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:miners_rush' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'additionalentityattributes:lava_speed' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'additionalentityattributes:bonus_rare_loot_rolls' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'bettertrims:hells_blessing' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/WARN]: Attribute ID 'spell_power:nature_element' does not belong to a known attribute. This entry will be ignored.
+[13:09:52] [Server thread/INFO]: Loaded 248 values from config.
+[13:09:52] [Server thread/INFO]: Saving config file. 248 entries.
+[13:09:52] [Server thread/INFO]: Applying changes for 248 attributes.
+[13:09:52] [Server thread/INFO]: No blacklist files found, skipping blacklist loading
+[13:09:52] [Server thread/INFO]: [Config.read] Loaded config info from '/workspaces/DarkRPG/config/memorysweep.json'!
+[13:09:52] [Server thread/INFO]: [Config.write] Saved config info to '/workspaces/DarkRPG/config/memorysweep.json'!
+[13:09:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:09:52] [Server thread/INFO]: <--[HERE]
+[13:09:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[13:09:52] [Server thread/INFO]: [STDOUT]: Caching sets
