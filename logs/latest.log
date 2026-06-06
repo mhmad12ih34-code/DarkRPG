@@ -6285,3 +6285,4 @@ java.lang.NullPointerException: uuid
 [17:37:20] [Server thread/INFO]: Player literal{King_GamesYT} chose Origin: golem:golem, for layer: origins:origin
 [17:37:24] [Server thread/INFO]: Player literal{King_GamesYT} chose Origin: aspects:anemo_layers/tempus, for layer: aspects:origins
 [17:37:29] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1121MB, After: 1126MB
+[17:41:07] [Server thread/INFO]: Player empty chose Origin: origins-classes:cleric, for layer: origins-classes:class
