@@ -286,6 +286,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2026-05-26 22:36:12 +0000",
       "minecraft:taiga": "2026-05-27 21:25:57 +0000",
+      "minecraft:deep_ocean": "2026-06-06 15:08:49 +0000",
       "minecraft:sunflower_plains": "2026-05-26 22:41:28 +0000",
       "minecraft:dark_forest": "2026-05-28 08:50:48 +0000",
       "minecraft:river": "2026-05-27 21:22:57 +0000",
@@ -296,6 +297,7 @@
       "minecraft:forest": "2026-05-27 00:41:12 +0000",
       "minecraft:lush_caves": "2026-05-28 23:54:58 +0000",
       "minecraft:frozen_ocean": "2026-05-28 08:10:11 +0000",
+      "minecraft:ocean": "2026-06-06 14:59:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2026-05-28 07:24:12 +0000",
       "minecraft:flower_forest": "2026-05-26 22:42:26 +0000",
       "minecraft:old_growth_birch_forest": "2026-05-27 22:30:39 +0000",
@@ -15799,6 +15801,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/building_blocks/raw_silver_block": {
+    "criteria": {
+      "has_item": "2026-06-06 15:06:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2026-06-06 14:24:46 +0000"
@@ -15823,9 +15831,27 @@
     },
     "done": true
   },
+  "exposure:recipes/tools/album": {
+    "criteria": {
+      "has_phantom_membrane": "2026-06-06 15:35:42 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shapeless_crated_bone": {
     "criteria": {
       "has_item": "2026-06-06 14:14:02 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shapeless_c1_coal_block": {
+    "criteria": {
+      "has_item": "2026-06-06 16:17:03 +0000"
+    },
+    "done": true
+  },
+  "wardentools:recipes/combat/echo_staff": {
+    "criteria": {
+      "has_sculk_shell": "2026-06-06 16:06:59 +0000"
     },
     "done": true
   },
@@ -15847,6 +15873,12 @@
     },
     "done": true
   },
+  "mythicmetals:unobtainium_template": {
+    "criteria": {
+      "i_was_jumpscared_five_times_while_hunting_this_item": "2026-06-06 16:04:16 +0000"
+    },
+    "done": true
+  },
   "copperandtuffbackport:recipes/decorations/tuff_wall": {
     "criteria": {
       "has_tuff": "2026-06-06 14:24:46 +0000"
@@ -15865,6 +15897,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2026-06-06 16:12:15 +0000"
+    },
+    "done": true
+  },
   "copperandtuffbackport:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2026-06-06 14:24:46 +0000"
@@ -15877,9 +15915,21 @@
     },
     "done": true
   },
+  "wardentools:recipes/food/echo_apple": {
+    "criteria": {
+      "has_echo_shard": "2026-06-06 16:03:07 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_double_crated_bone": {
     "criteria": {
       "has_item": "2026-06-06 14:14:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/warden": {
+    "criteria": {
+      "has_echo_shard": "2026-06-06 16:03:07 +0000"
     },
     "done": true
   },
@@ -15901,9 +15951,39 @@
     },
     "done": true
   },
+  "bewitchment:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_item": "2026-06-06 15:06:52 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c2_coal_block": {
+    "criteria": {
+      "has_item": "2026-06-06 16:17:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2026-06-06 16:12:15 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_lapis_block": {
     "criteria": {
       "has_item": "2026-06-06 14:19:57 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:compression/c0": {
+    "criteria": {
+      "get_c0": "2026-06-06 16:41:33 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:compression/c1": {
+    "criteria": {
+      "get_c1": "2026-06-06 16:17:03 +0000"
     },
     "done": true
   },
@@ -15937,6 +16017,12 @@
     },
     "done": true
   },
+  "crystals_overhauled:celestial_voyager": {
+    "criteria": {
+      "celestial_voyager": "2026-06-06 15:13:33 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/building_blocks/shaped_c0_tuff": {
     "criteria": {
       "has_item": "2026-06-06 14:24:46 +0000"
@@ -15949,9 +16035,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2026-06-06 14:59:04 +0000"
+    },
+    "done": true
+  },
   "copperandtuffbackport:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2026-06-06 14:24:46 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c1_oak_log": {
+    "criteria": {
+      "has_item": "2026-06-06 16:41:33 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_phantom_membrane": {
+    "criteria": {
+      "has_item": "2026-06-06 15:35:42 +0000"
     },
     "done": true
   },
@@ -15979,6 +16083,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2026-06-06 14:59:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2026-06-06 14:24:46 +0000"
@@ -15991,9 +16101,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2026-06-06 14:59:04 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_item": "2026-06-06 15:06:52 +0000"
+    },
+    "done": true
+  },
+  "wardentools:recipes/misc/sculk_shell": {
+    "criteria": {
+      "has_sculk_shell": "2026-06-06 16:06:59 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grotesque_stew": {
+    "criteria": {
+      "has_item": "2026-06-06 16:12:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2026-06-06 14:24:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2026-06-06 16:12:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2026-06-06 15:35:42 +0000"
     },
     "done": true
   },
@@ -16009,9 +16155,21 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shapeless_c0_oak_log": {
+    "criteria": {
+      "has_item": "2026-06-06 16:41:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2026-06-06 14:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2026-06-06 16:03:07 +0000"
     },
     "done": true
   },
@@ -16024,6 +16182,12 @@
   "copperandtuffbackport:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2026-06-06 14:24:46 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:recipes/unobtainium_alloy_template": {
+    "criteria": {
+      "found_template": "2026-06-06 16:04:16 +0000"
     },
     "done": true
   },

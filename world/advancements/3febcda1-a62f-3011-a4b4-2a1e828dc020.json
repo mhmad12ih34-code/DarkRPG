@@ -1870,6 +1870,7 @@
       "cooked_mutton": "2026-05-27 00:16:29 +0000",
       "cooked_beef": "2026-05-26 22:55:56 +0000",
       "porkchop": "2026-05-27 10:40:45 +0000",
+      "pumpkin_pie": "2026-06-06 15:35:39 +0000",
       "rotten_flesh": "2026-05-27 09:29:35 +0000",
       "cooked_chicken": "2026-05-26 23:11:07 +0000"
     },
@@ -16066,6 +16067,90 @@
   "compressedblocks:recipes/building_blocks/shaped_c2_gray_wool": {
     "criteria": {
       "has_item": "2026-06-06 13:57:58 +0000"
+    },
+    "done": true
+  },
+  "darkbosses:warden_boss": {
+    "criteria": {
+      "warden_boss": "2026-06-06 16:06:45 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:recipes/carmot_smithing_template": {
+    "criteria": {
+      "found_carmot": "2026-06-06 16:30:56 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/food/peridot_potion": {
+    "criteria": {
+      "has_peridot_crystal_shard": "2026-06-06 16:03:25 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c3_gray_wool": {
+    "criteria": {
+      "has_item": "2026-06-06 16:26:30 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:carmot": {
+    "criteria": {
+      "gygrid": "2026-06-06 16:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2026-06-06 16:06:45 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:runite": {
+    "criteria": {
+      "buying_gf": "2026-06-06 16:30:54 +0000"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:progression/experience_bottle": {
+    "criteria": {
+      "got_xp_bottle": "2026-06-06 16:04:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:excalibur": {
+    "criteria": {
+      "condition_1": "2026-06-06 16:06:45 +0000"
+    },
+    "done": false
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_tnt": {
+    "criteria": {
+      "has_item": "2026-06-06 15:35:27 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shapeless_c2_gray_wool": {
+    "criteria": {
+      "has_item": "2026-06-06 16:26:30 +0000"
+    },
+    "done": true
+  },
+  "crystals_overhauled:sparkling_discovery": {
+    "criteria": {
+      "sparkling_discovery": "2026-06-06 15:53:39 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c0_sculk": {
+    "criteria": {
+      "has_item": "2026-06-06 16:04:50 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_experience_bottle": {
+    "criteria": {
+      "has_item": "2026-06-06 16:04:45 +0000"
     },
     "done": true
   },
