@@ -6211,3 +6211,7 @@ java.lang.NullPointerException: uuid
 [17:17:04] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_06.06.2026-17.17.04.dat
 [17:17:18] [Server thread/INFO]: dcx501 was slain by King_GamesYT
 [17:17:18] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_06.06.2026-17.17.18.dat
+[17:19:51] [Server thread/INFO]: dcx501 has made the advancement [Estus Flask]
+[17:19:51] [Server thread/INFO]: dcx501 has reached the goal [Half a flight]
+[17:20:57] [Server thread/INFO]: King_GamesYT has made the advancement [Voluntary Exile]
+[17:22:29] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1761MB, After: 1768MB

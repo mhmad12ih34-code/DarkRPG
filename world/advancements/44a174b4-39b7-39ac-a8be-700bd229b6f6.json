@@ -16197,9 +16197,33 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2026-06-06 17:19:51 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2026-06-06 17:19:51 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/gray_coffin": {
     "criteria": {
       "has_item": "2026-06-06 17:16:53 +0000"
+    },
+    "done": true
+  },
+  "bonfires:bonfires/estus_flask": {
+    "criteria": {
+      "estus_flask": "2026-06-06 17:19:51 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2026-06-06 17:19:51 +0000"
     },
     "done": true
   },
