@@ -16057,5 +16057,17 @@
     },
     "done": true
   },
+  "compressedblocks:recipes/building_blocks/shapeless_c1_gray_wool": {
+    "criteria": {
+      "has_item": "2026-06-06 13:57:58 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/building_blocks/shaped_c2_gray_wool": {
+    "criteria": {
+      "has_item": "2026-06-06 13:57:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
