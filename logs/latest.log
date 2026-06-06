@@ -6366,3 +6366,4 @@ java.lang.NullPointerException: uuid
 [17:57:05] [Server thread/INFO]: King_GamesYT lost connection: Disconnected
 [17:57:05] [Server thread/INFO]: King_GamesYT left the game
 [17:57:05] [Server thread/INFO]: Updating all forceload tickets for 3febcda1-a62f-3011-a4b4-2a1e828dc020
+[18:07:29] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1286MB, After: 1286MB
