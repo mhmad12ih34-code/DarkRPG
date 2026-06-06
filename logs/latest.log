@@ -6425,3 +6425,4 @@ java.lang.NullPointerException: uuid
 [18:14:30] [Netty Epoll Server IO #3/INFO]: Receiving client config
 [18:14:31] [Server thread/INFO]: dcx501 joined the game
 [18:14:31] [Server thread/INFO]: Updating all forceload tickets for 44a174b4-39b7-39ac-a8be-700bd229b6f6
+[18:22:29] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1556MB, After: 1560MB
