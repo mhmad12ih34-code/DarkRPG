@@ -6149,3 +6149,6 @@ java.lang.NullPointerException: uuid
 [13:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4566ms or 91 ticks behind
 [13:39:14] [Server thread/WARN]: UUID of added entity already exists: class_1420['Bat'/154, l='ServerLevel[world]', x=186.81, y=5.00, z=-787.59]
 [13:39:52] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1558MB, After: 1562MB
+[13:40:21] [Server thread/INFO]: King_GamesYT lost connection: Disconnected
+[13:40:21] [Server thread/INFO]: King_GamesYT left the game
+[13:40:21] [Server thread/INFO]: Updating all forceload tickets for 3febcda1-a62f-3011-a4b4-2a1e828dc020
