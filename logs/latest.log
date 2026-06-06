@@ -6084,3 +6084,4 @@ com.google.gson.JsonSyntaxException: Missing tiers
 [13:09:52] [Server thread/INFO]: <--[HERE]
 [13:09:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
 [13:09:52] [Server thread/INFO]: [STDOUT]: Caching sets
+[13:24:52] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1822MB, After: 1823MB
