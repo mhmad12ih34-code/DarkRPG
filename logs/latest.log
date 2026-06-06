@@ -6273,3 +6273,12 @@ java.lang.NullPointerException: uuid
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
 	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[17:35:19] [Server thread/INFO]: dcx501[/127.0.0.1:36524] logged in with entity id 7137 at (-112.99582444631551, 103.0, -217.40095489190296)
+[17:35:19] [Server thread/INFO]: Sending server config values to client
+[17:35:19] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[17:35:19] [Server thread/INFO]: Loading config from file...
+[17:35:20] [Server thread/INFO]: dcx501 joined the game
+[17:35:21] [Server thread/INFO]: Updating all forceload tickets for 44a174b4-39b7-39ac-a8be-700bd229b6f6
+[17:35:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[17:36:32] [Server thread/INFO]: [King_GamesYT: Gave 1 [Orb of Origin] to King_GamesYT]
+[17:36:50] [Server thread/INFO]: Player literal{King_GamesYT} chose Origin: aspects:anemo_layers/anemo, for layer: aspects:elements
