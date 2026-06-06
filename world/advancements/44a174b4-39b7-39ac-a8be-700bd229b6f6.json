@@ -16211,6 +16211,42 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2026-06-06 17:34:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2026-06-06 17:34:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2026-06-06 17:34:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2026-06-06 17:34:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2026-06-06 17:34:51 +0000"
+    },
+    "done": true
+  },
+  "variantbarrels:recipes/decorations/ru_maple_barrel": {
+    "criteria": {
+      "has_planks": "2026-06-06 17:34:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2026-06-06 17:28:36 +0000"
@@ -16220,6 +16256,18 @@
   "regions_unexplored:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2026-06-06 17:24:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2026-06-06 17:34:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2026-06-06 17:34:51 +0000"
     },
     "done": true
   },
@@ -16241,9 +16289,21 @@
     },
     "done": true
   },
+  "snowyspirit:recipes/decorations/regions_unexplored/sled_maple": {
+    "criteria": {
+      "has_item": "2026-06-06 17:34:51 +0000"
+    },
+    "done": true
+  },
   "compressedblocks:recipes/misc/shaped_crated_cornflower": {
     "criteria": {
       "has_item": "2026-06-06 17:28:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2026-06-06 17:34:51 +0000"
     },
     "done": true
   },
@@ -16256,6 +16316,12 @@
   "bewitchment:recipes/decorations/gray_coffin": {
     "criteria": {
       "has_item": "2026-06-06 17:16:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2026-06-06 17:34:51 +0000"
     },
     "done": true
   },
