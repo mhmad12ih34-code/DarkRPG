@@ -6205,3 +6205,9 @@ java.lang.NullPointerException: uuid
 [17:14:09] [Server thread/INFO]: Updating all forceload tickets for 3febcda1-a62f-3011-a4b4-2a1e828dc020
 [17:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
 [17:14:11] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[17:16:02] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[17:16:02] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_06.06.2026-17.16.02.dat
+[17:17:04] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[17:17:04] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_06.06.2026-17.17.04.dat
+[17:17:18] [Server thread/INFO]: dcx501 was slain by King_GamesYT
+[17:17:18] [Server thread/INFO]: Created new backpack backup file for dcx501 with unique ID travelersbackpack.standard_06.06.2026-17.17.18.dat

@@ -16197,5 +16197,11 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/gray_coffin": {
+    "criteria": {
+      "has_item": "2026-06-06 17:16:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
