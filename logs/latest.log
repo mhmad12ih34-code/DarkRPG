@@ -6356,3 +6356,4 @@ java.lang.NullPointerException: uuid
 [14:04:16] [Server thread/INFO]: Updating all forceload tickets for 3febcda1-a62f-3011-a4b4-2a1e828dc020
 [14:06:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [14:09:52] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1182MB, After: 1189MB
+[14:24:52] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1503MB, After: 1509MB
