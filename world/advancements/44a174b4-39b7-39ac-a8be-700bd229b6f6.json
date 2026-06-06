@@ -16343,5 +16343,23 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_shrub": {
+    "criteria": {
+      "has_maple_sapling": "2026-06-06 18:16:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_shrub": {
+    "criteria": {
+      "has_silver_birch_sapling": "2026-06-06 18:16:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_sapling": "2026-06-06 18:15:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

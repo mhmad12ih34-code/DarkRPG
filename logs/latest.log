@@ -6367,3 +6367,61 @@ java.lang.NullPointerException: uuid
 [17:57:05] [Server thread/INFO]: King_GamesYT left the game
 [17:57:05] [Server thread/INFO]: Updating all forceload tickets for 3febcda1-a62f-3011-a4b4-2a1e828dc020
 [18:07:29] [MemorySweep-Thread/INFO]: MemorySweep: GC executed. Before: 1286MB, After: 1286MB
+[18:14:29] [Server thread/INFO]: [Handshake] Sending channel query
+[18:14:29] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.whitelist for dcx501
+java.lang.NullPointerException: uuid
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
+	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar:?]
+	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:43) ~[vanilla-permissions-0.2.9+1.20.1.jar:?]
+	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.minecraft.class_3248.redirect$ddp000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[18:14:29] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.player-limit for dcx501
+java.lang.NullPointerException: uuid
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
+	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar:?]
+	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:43) ~[vanilla-permissions-0.2.9+1.20.1.jar:?]
+	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.minecraft.class_3248.redirect$ddp000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[18:14:29] [Server thread/ERROR]: Failed to cache permission minecraft.bypass.force-gamemode for dcx501
+java.lang.NullPointerException: uuid
+	at java.util.Objects.requireNonNull(Objects.java:246) ~[?:?]
+	at me.lucko.fabric.api.permissions.v0.Permissions.getPermissionValue(Permissions.java:199) ~[fabric-permissions-api-v0-0.3.1-1fe598067d104722.jar:?]
+	at me.drex.vanillapermissions.util.JoinCache.lambda$initialize$0(JoinCache.java:43) ~[vanilla-permissions-0.2.9+1.20.1.jar:?]
+	at net.fabricmc.fabric.api.networking.v1.ServerLoginConnectionEvents.lambda$static$2(ServerLoginConnectionEvents.java:51) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.fabricmc.fabric.impl.networking.server.ServerLoginNetworkAddon.queryTick(ServerLoginNetworkAddon.java:83) ~[fabric-networking-api-v1-1.3.14+a158aa0477-a0c231e4ae0258c6.jar:?]
+	at net.minecraft.class_3248.redirect$ddp000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:562) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[18:14:30] [Server thread/INFO]: dcx501[/127.0.0.1:48858] logged in with entity id 9535 at (-124.17886343429163, 103.0, -201.39781394174716)
+[18:14:30] [Server thread/INFO]: Sending server config values to client
+[18:14:30] [Server thread/INFO]: Loading config from file...
+[18:14:30] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[18:14:31] [Server thread/INFO]: dcx501 joined the game
+[18:14:31] [Server thread/INFO]: Updating all forceload tickets for 44a174b4-39b7-39ac-a8be-700bd229b6f6
