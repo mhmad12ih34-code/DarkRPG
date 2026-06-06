@@ -16199,15 +16199,81 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+  "bewitchment:recipes/decorations/gray_coffin": {
     "criteria": {
-      "has_log": "2026-06-06 17:24:54 +0000"
+      "has_item": "2026-06-06 17:16:53 +0000"
     },
     "done": true
   },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2026-06-06 17:19:51 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2026-06-06 17:19:51 +0000"
+    },
+    "done": true
+  },
+  "bonfires:bonfires/estus_flask": {
+    "criteria": {
+      "estus_flask": "2026-06-06 17:19:51 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2026-06-06 17:19:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2026-06-06 17:24:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2026-06-06 17:24:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2026-06-06 17:24:54 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:sticks": {
+    "criteria": {
+      "darkrpg_stick": "2026-06-06 17:25:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2026-06-06 17:25:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2026-06-06 17:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2026-06-06 17:28:36 +0000"
+    },
+    "done": true
+  },
+  "compressedblocks:recipes/misc/shaped_crated_cornflower": {
+    "criteria": {
+      "has_item": "2026-06-06 17:28:36 +0000"
     },
     "done": true
   },
@@ -16247,18 +16313,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2026-06-06 17:28:36 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_wood": {
-    "criteria": {
-      "has_log": "2026-06-06 17:24:54 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/maple_trapdoor": {
     "criteria": {
       "has_maple_planks": "2026-06-06 17:34:51 +0000"
@@ -16271,33 +16325,9 @@
     },
     "done": true
   },
-  "darkrpg:sticks": {
-    "criteria": {
-      "darkrpg_stick": "2026-06-06 17:25:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2026-06-06 17:28:36 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/deku_leaf": {
-    "criteria": {
-      "has_paragliders": "2026-06-06 17:19:51 +0000"
-    },
-    "done": true
-  },
   "snowyspirit:recipes/decorations/regions_unexplored/sled_maple": {
     "criteria": {
       "has_item": "2026-06-06 17:34:51 +0000"
-    },
-    "done": true
-  },
-  "compressedblocks:recipes/misc/shaped_crated_cornflower": {
-    "criteria": {
-      "has_item": "2026-06-06 17:28:36 +0000"
     },
     "done": true
   },
@@ -16307,39 +16337,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2026-06-06 17:24:54 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/gray_coffin": {
-    "criteria": {
-      "has_item": "2026-06-06 17:16:53 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2026-06-06 17:34:51 +0000"
-    },
-    "done": true
-  },
-  "bonfires:bonfires/estus_flask": {
-    "criteria": {
-      "estus_flask": "2026-06-06 17:19:51 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/red_maple_shrub": {
-    "criteria": {
-      "has_red_maple_sapling": "2026-06-06 17:25:33 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/paraglider": {
-    "criteria": {
-      "has_paragliders": "2026-06-06 17:19:51 +0000"
     },
     "done": true
   },
